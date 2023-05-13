@@ -85,7 +85,7 @@ Sampling.prototype.setupHistograms = function() {
     var self = this;
     // Create a histogram in the div ID histogram1
     var histogram1 = new Histogram($('div #histogram1'),
-        'Parent population (can be changed with the mouse)',
+        '',
         Sampling.normalDistribution(),
         false, /* yTicks */
         0,     /* yIntervals */
@@ -129,7 +129,7 @@ Sampling.prototype.setupHistograms = function() {
 
     // Set up animated sample data histogram
     var histogram2 = new AnimatedHistogram($('div #histogram2'),
-        'Sample Data',
+        '',
         new HistogramData(Sampling.integerValues(), Sampling.uniformFrequencies(0)),
         true /* yTicks */,
         6,
@@ -215,7 +215,7 @@ Sampling.prototype.setupControls = function() {
     var statToDisplay = $('#histogram3Stat :selected').text();
     var selectedStat = $('#histogram3Stat :selected').val();
     var sampleSize = $('#histogram3SampleSize :selected').text();
-    self.histogram3.setTitle('Distribution of ' + statToDisplay + 's, ' + sampleSize);
+    self.histogram3.setTitle('Samples of ' + sampleSize);
     self.histogram3.setBarColor(self.colorForStat(selectedStat));
     self.resetSamples();
   };
@@ -230,7 +230,7 @@ Sampling.prototype.setupControls = function() {
       self.histogram4.setTitle('');
     }
     else {
-      self.histogram4.setTitle('Distribution of ' + statToDisplay + 's, ' + sampleSize);
+      self.histogram4.setTitle('Samples of ' + sampleSize);
     }
     self.histogram4.setBarColor(self.colorForStat(selectedStat));
     self.resetSamples();
