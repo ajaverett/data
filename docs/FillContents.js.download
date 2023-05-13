@@ -1,0 +1,56 @@
+function GetAppletWidth() {  //width of the applet
+  return 65;
+}
+
+function GetAppletHeight() { //height of the applet
+  return 25;
+}
+
+function NeedWarning(Version) { //returns a warning for browsers that won't run the applet
+  var PageText = ""; 
+  if (Version == "1.1") {
+    if (navigator.appName == "Netscape") {
+      if(navigator.userAgent.indexOf("Macintosh") != -1)
+       if (parseFloat(navigator.appVersion) < 5) 
+	  
+        PageText += "<b>Browser version 5.0 or higher is recommended to run this applet.</b><br>";
+    } 
+  }
+ return PageText;
+}
+
+function PlaceApplet(AppletClass,AppletArchive) { //places the applet for simulations
+  var AppletHTML = "If you are having problems with Java security, you might find <a href='https://www.java.com/en/download/help/jcp_security.xml' target= '_new'>this page</a> helpful. <br> <br><APPLET CODE=" + AppletClass + " WIDTH=" + GetAppletWidth() + " HEIGHT=" + GetAppletHeight() + " ALIGN='BOTTOM'  ARCHIVE=" + AppletArchive + ">Your browser either does not support JAVA or has  JAVA disabled. </APPLET><BR><br>";
+  return AppletHTML;
+}
+
+
+function BottomLinks(FileType) { // places the general links for the simulation/case study
+   var SimLinks = "<BR> <BR> ";
+/*   if (FileType == "Simulation") {
+      SimLinks += "<span class='BottomLinks'><a  href='../index.html'  target='_parent'>Simulations/Demonstrations</a> </span><br>";
+   }
+   else {
+      if (FileType == "CaseStudy") {
+         SimLinks += "<span class='BottomLinks'><a  href='../index.html'  target='_parent'>Case Studies</a></span><br>";
+      }
+   }
+   SimLinks += "<span class='BottomLinks'> <A  HREF='../../rvls.html' target='_parent'>Rice Virtual Lab in  Statistics Home page</A></span><br>";
+*/
+   return SimLinks; 
+}
+
+function SetLinks(LinkArray,FileArray) { //places the links related to this file
+var Links="";
+for (var i = 1; i < LinkArray.length; i++) {
+      Links += "<span class='MainLinks'><A HREF=" + FileArray[i] + "  target='Text'>" + LinkArray[i] + "</A></span><br>";
+   }
+return Links;
+}
+
+function LastFunction(Argument) { //puts HTML at the end of the Contents.html file
+  return "";
+}
+
+function NonHtml(Argument) { //a function that doesn't return HTML, in case it's ever needed
+}

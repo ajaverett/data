@@ -1,0 +1,100 @@
+
+body {
+    background-color: #ffffff;
+    min-width: 620px;
+    min-height: 580px;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
+}
+
+
+.absolute {
+    position: absolute;
+}
+
+
+.column {
+    position: relative;
+    float: left;
+    margin-right: 20px;
+}
+
+
+#displayStatsColumn {
+    width: 120px;
+    height: 600px;
+}
+
+
+#statsDisplay1 {
+    position: absolute;
+    top: 0px;
+    width: 100%;
+}
+
+
+#statsDisplay2 {
+    position: absolute;
+    top: 122px;
+    width: 100%;
+}
+
+
+#statsDisplay3 {
+    position: absolute;
+    top: 240px;
+    width: 100%;
+}
+
+
+#statsDisplay4 {
+    position: absolute;
+    top: 360px;
+    width: 100%;
+}
+
+
+#graphs {
+    width: 375px;
+    height: 580px;
+}
+
+
+#menu {
+    width: 150px;
+}
+
+
+.inline {
+    display: inline;
+}
+
+
+.blue {
+    color : #0000ff;
+}
+
+
+.magenta {
+    color : #ff00ff;
+}
+
+
+.red {
+    color: #ff0000;
+}
+
+
+.green {
+  color: #00ff00;
+}
+
+
+.right {
+    float: right;
+}
+
+
+.row {
+    width: 100%;
+}
