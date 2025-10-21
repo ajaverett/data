@@ -1,0 +1,1323 @@
+Company,TypeName,Inches,screen_resolution,has_ips_panel,is_touchscreen,resolution_width,resolution_height,cpu_brand,cpu_name,cpu_speed,Ram,memory_type,primary_storage,gpu_brand,gpu_name,OpSys,Weight,Price,total_pixels
+,Ultrabook,13.3,,1,0,1600,2560,Intel,Core i5,2.3,8,SSD,128,Intel, Iris Plus Graphics 640,,1.4,71379,4096000
+Apple,Ultrabook,13.3,,0,0,900,1440,Intel,Core i5,1.8,8,,128,Intel, HD Graphics 6000,macos,1.3,47896,1296000
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,,1.9,30636,2073600
+Apple,Ultrabook,15.4,,1,0,1800,2880,Intel,Core i7,2.7,16,,512,AMD, Radeon Pro 455,macos,1.8,135195,5184000
+Apple,Ultrabook,13.3,,1,0,1600,2560,Intel,Core i5,3.1,8,SSD,256,Intel, Iris Plus Graphics 650,macos,1.4,96096,4096000
+acer,Notebook,15.6,,0,0,768,1366,AMD,A9-Series 9420,3,10,HDD,500,AMD, Radeon R5,windows,2.1,-21312,1049088
+,Ultrabook,15.4,,1,0,1800,2880,Intel,Core i7,2.2,16,,256,Intel, Iris Pro Graphics,,2,114018,5184000
+Apple,Ultrabook,13.3,,0,0,900,1440,Intel,Core i5,1.8,8,Flash Storage,256,Intel, HD Graphics 6000,macos,1.3,61736,1296000
+,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,1.8,16,,512,Nvidia, GeForce MX150,,1.3,79654,2073600
+Acer,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i5,1.6,20,SSD,256,Intel, UHD Graphics 620,windows,1.6,41026,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,500,Intel, HD Graphics 620,,1.9,20987,1049088
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,HDD,500,Intel, HD Graphics 520,,1.9,18381,2073600
+Apple,Ultrabook,15.4,,1,0,1800,2880,Intel,Core i7,2.8,16,,256,AMD, Radeon Pro 555,macos,1.8,130002,5184000
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Itenl,Core i3,2,4,,256,AMD, Radeon R5 M430,windows,,26581,2073600
+Apple,Ultrabook,12,,1,0,1440,2304,Intel,Core M,1.2,8,,256,Intel, HD Graphics 615,macos,0.9,67261,3317760
+apple,Ultrabook,13.3,,1,0,1600,2560,Intel,Core i5,2.3,8,,256,Intel, Iris Plus Graphics 640,macos,1.4,80908,4096000
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,AMD, Radeon R5 M430,,2.2,39694,2073600
+Apple,Ultrabook,15.4,,1,0,1800,2880,Ietnl,Core i7,2.9,16,,512,AMD, Radeon Pro 560,macos,,152274,5184000
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2.4,8,HDD,1024,Nvidia, GeForce 940MX,,2.2,26587,2073600
+Dell,Ultrabook,13.3,Full HD,1,1,1080,1920,Intel,Core i5,1.6,8,,-128,Intel, UHD Graphics 620,windows,1.2,52161,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,20,Hybrid,128,Nvidia, GeForce GTX 1050,windows,2.5,53227,2073600
+hp,Notebook,15.6,,0,0,,1366,AMD,E-Series E2-9000e,1.5,4,,500,AMD, Radeon R2,,1.9,-13746,1049088
+Dell,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i5,1.6,20,SSD,256,Intel, UHD Graphics 620,windows,1.6,43636,2073600
+HP,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,SSD,-256,Intel, HD Graphics 620,windows,,35112,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,10,HDD,1024,Intel, HD Graphics 520,windows,2.3,22305,1049088
+Apple,Ultrabook,13.3,,0,0,900,1440,Intel,Core i5,1.6,8,,128,Intel, HD Graphics 6000,macos,1.4,58555,1296000
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,SSD,256,AMD, Radeon 530,windows,2.2,42624,2073600
+,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.9,8,,256,Intel, UHD Graphics 620,,1.9,69157,2073600
+HP,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,1024,Nvidia, GeForce 930MX,windows,2.5,47739,2073600
+Chuwi,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Atom x5-Z8300,1.4,4,,64,Intel, HD Graphics,windows,1.9,13053,2073600
+Asus,Notebook,14,,0,0,768,1366,AMD,E-Series E2-6110,1.5,2,,32,AMD, Radeon R2,windows,,10603,1049088
+HP,Notebook,17.3,Full HD,0,0,1080,1920,AMD,A6-Series 9220,2.5,10,,500,AMD, Radeon 530,windows,2.7,23390,2073600
+dell,Ultrabook,13.3,Quad HD +,0,1,1800,3200,Intel,Core i7,1.8,16,SSD,512,Intel, UHD Graphics 620,windows,1.2,99580,5760000
+apple,Ultrabook,13.3,,0,0,900,1440,Intel,Core i5,1.6,8,,256,Intel, HD Graphics 6000,macos,1.4,53173,1296000
+lenovo,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.1,4,,64,Intel, HD Graphics 500,windows,1.4,13267,1049088
+acer,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.7,4,,-1024,Intel, HD Graphics 620,linux,2.1,19554,1049088
+Dell,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i5,1.6,8,Hybrid,128,AMD, Radeon 530,windows,2.8,52161,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,HDD,1024,Intel, HD Graphics 620,windows,1.9,26037,1049088
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,SSD,256,Nvidia, GeForce 930MX ,windows,2.1,46833,2073600
+asus,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,1024,Intel, HD Graphics 620,linux,2,20726,2073600
+Dell,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1060,windows,2.7,79867,2073600
+asus,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,8,,1024,Nvidia, GeForce 940MX,linux,2.3,27865,1049088
+Acer,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,1.6,4,,256,Intel, UHD Graphics 620,windows,2.2,36337,2073600
+Dell,2 in 1 Convertible,17.3,Full HD,0,1,1080,1920,Intel,Core i5,1.6,12,HDD,1024,Nvidia, GeForce 150MX,windows,2.8,53227,2073600
+Apple,Ultrabook,13.3,,1,0,1600,2560,Intel,Core i5,2,8,,256,Intel, Iris Graphics 540,macos,1.4,75604,4096000
+asus,Gaming,17.3,Full HD,0,0,1080,1920,AMD,Ryzen 1700,3,8,,256,AMD, Radeon RX 580,windows,3.2,69211,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,SSD,256,AMD, Radeon R5 M430,windows,2.3,34046,2073600
+Asus,Notebook,17.3,,0,0,,1366,Intel,Pentium Quad,1.1,,,1024,Nvidia, GeForce 920MX,windows,2.8,24828,1049088
+,Notebook,15.6,Full HD,1,0,,1920,Intel,Core i7,1.8,8,SSD,256,Nvidia, GeForce MX150,,2.2,44808,2073600
+HP,Notebook,15.6,Full HD,0,0,,1920,AMD,A6-Series 9220,2.5,4,,256,AMD, Radeon R4 Graphics,windows,1.9,21232,2073600
+HP,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,SSD,-512,Intel, UHD Graphics 620,windows,1.5,58768,2073600
+Acer,Notebook,15.6,,0,0,,1366,Intel,Core i3,2.4,4,,1024,Intel, HD Graphics 620,windows,2.4,20460,1049088
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,256,AMD, Radeon 520,windows,2.1,40908,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,128,Intel, HD Graphics 520,windows,1.9,23390,2073600
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,256,Intel, HD Graphics 620,windows,2,31232,1049088
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,Hybrid,256,Nvidia, GeForce GTX 1070,windows,2.4,130483,2073600
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Ietnl,Core i3,2,4,SSD,256,Intel, HD Graphics 520,linux,2,22111,2073600
+Dell,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,1.8,16,,256,AMD, Radeon 530,windows,2.8,69211,2073600
+,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,,1.7,46833,2073600
+Lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i3,2.7,,,256,Intel, HD Graphics 620,,1.7,31915,2073600
+Asus,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,1.4,50136,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.9,36763,2073600
+asus,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,512,Nvidia, GeForce GTX 1050 Ti,windows,1.8,105654,2073600
+,Notebook,15.6,,0,0,768,1366,Inetl,Core i3,2,4,HDD,500,AMD, Radeon 520,,1.9,23373,1049088
+HP,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,32,Intel, HD Graphics 400,windows,1.4,12201,1049088
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Ietnl,Core i5,2.5,4,,1024,Intel, HD Graphics 620,windows,1.9,29251,2073600
+asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,12,HDD,1024,Nvidia, GeForce GTX 1050 Ti,linux,3,50563,2073600
+microsoft,Ultrabook,13.5,,0,1,1504,2256,Intel,Core i5,2.5,10,SSD,128,Intel, HD Graphics 620,windows,1.3,58022,3393024
+dell,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core i7,1.8,64,,256,AMD, Radeon 530,windows,1.4,50882,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,256,AMD, Radeon 530,windows,2.2,46354,2073600
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,Hybrid,128,Nvidia, GeForce GTX 1050,windows,2.7,58342,2073600
+acer,Notebook,14,,0,0,768,1366,Intel,Core i3,2,,,1024,Intel, HD Graphics 520,windows,2.1,20726,1049088
+Asus,Gaming,15.6,Full HD,0,0,1080,1920,Itnel,Core i7,2.8,8,HDD,1024,Nvidia, GeForce GTX 1050,windows,2.2,50563,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,-2048,Intel, HD Graphics 620,,2.2,27652,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,Hybrid,128,Intel, UHD Graphics 620,windows,2,45554,2073600
+Acer,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2.7,4,,1024,Nvidia, GeForce MX130,windows,2.2,28238,2073600
+HP,Notebook,17.3,Full HD,0,0,,1920,Intel,Core i5,1.6,8,Hybrid,128,Nvidia, GeForce 930MX,windows,2.5,52055,2073600
+Dell,Ultrabook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,1.9,58403,2073600
+Apple,Ultrabook,12,,1,0,1440,2304,Intel,Core i5,1.3,8,,512,Intel, HD Graphics 615,macos,0.9,80453,3317760
+HP,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,256,Intel, HD Graphics 620,windows,1.6,45821,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A6-Series 9220,2.5,4,SSD,128,AMD, R4 Graphics,,2.2,21259,2073600
+Acer,Notebook,15.6,,0,0,768,1366,AMD,A9-Series 9420,3,4,,1024,AMD, Radeon R5,windows,2.1,21046,1049088
+dell,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,Hybrid,128,Nvidia, GeForce GTX 1050 Ti,windows,2.7,71875,2073600
+hp,Ultrabook,15.6,Full HD,1,0,1080,1920,Ientl,Core i7,1.8,8,,256,Nvidia, GeForce GTX 940MX,windows,1.8,37243,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Inetl,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,2,31914,2073600
+asus,Gaming,15.6,Full HD,1,0,1080,1920,Itenl,Core i7,2.8,16,,-128,Nvidia, GeForce GTX 1060,windows,2.2,77203,2073600
+Dell,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core i7,1.8,8,,256,Intel, UHD Graphics 620,windows,,87859,2073600
+Asus,Gaming,15.6,Full HD,0,0,1080,1920,AMD,FX 9830P,3,8,,1024,AMD, Radeon RX 560,windows,2.5,37243,2073600
+acer,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,5,,1024,Nvidia, GeForce MX150,windows,2.2,36710,2073600
+,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i7,1.8,40,,512,Intel, UHD Graphics 620,,1.5,63776,2073600
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Nvidia, GeForce GTX 1060,windows,2.7,63670,2073600
+asus,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.7,20,,256,Intel, HD Graphics 620,windows,1.3,55891,2073600
+Acer,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i5,1.6,,SSD,256,Intel, UHD Graphics 620,windows,1.5,45128,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,,,1024,AMD, Radeon R5 M430,linux,2.2,31963,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,256,AMD, Radeon R5 M430,linux,2.2,25841,2073600
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Ientl,Core i3,2.4,6,,256,Nvidia, GeForce 920M,windows,2,30743,2073600
+HP,Gaming,15.6,Full HD,1,0,1080,1920,Ientl,Core i7,2.8,12,,128,Nvidia, GeForce GTX 1050,windows,2.6,66547,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,AMD, Radeon 530,windows,1.9,38308,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,AMD,E-Series E2-9000e,1.5,4,,500,AMD, Radeon R2,windows,2.1,18595,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,,,1024,AMD, Radeon 520,,2.2,34472,2073600
+HP,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,,256,Nvidia, GeForce MX150,windows,1.4,59620,2073600
+Microsoft,Ultrabook,13.5,,0,1,1504,2256,Intel,Core i5,2.5,8,,-256,Intel, HD Graphics 620,windows,1.3,71395,3393024
+,Notebook,14,Full HD,1,0,1080,1920,Itenl,Core i5,2.5,6,SSD,256,Nvidia, GeForce 940MX,,,35112,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Itenl,Core i3,2,4,,1024,Intel, HD Graphics 520,windows,1.9,22106,2073600
+Asus,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,SSD,256,Nvidia, GeForce 940MX,windows,1.3,63563,2073600
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050 Ti,windows,,69211,2073600
+lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,SSD,256,Intel, HD Graphics 620,windows,1.6,78854,2073600
+Asus,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,16,,256,Nvidia, GeForce MX150,windows,1.5,67239,2073600
+Dell,Ultrabook,13.3,Quad HD +,0,1,1800,3200,Intel,Core i7,2.4,8,,256,Intel, Iris Plus Graphics 640,windows,1.2,73473,5760000
+lenovo,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.4,74539,2073600
+,Notebook,14,,1,0,768,1366,Intel,Core i5,1.6,4,HDD,500,Intel, UHD Graphics 620,,1.6,38468,1049088
+Dell,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,1.6,8,SSD,256,Intel, UHD Graphics 620,windows,1.2,86793,2073600
+hp,Notebook,14,Full HD,0,0,1080,1920,Ientl,Core i7,1.8,8,,512,Intel, UHD Graphics 620,windows,1.6,57756,2073600
+dell,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,1.8,20,Hybrid,256,Nvidia, GeForce 940MX,windows,2.2,60224,2073600
+,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,1024,Nvidia, GeForce 920MX,,2,30050,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,-256,Nvidia, GeForce 940MX,,1.7,59567,2073600
+Acer,Notebook,15.6,Full HD,1,1,1080,1920,Intel,Core i3,2.4,6,HDD,1024,Intel, HD Graphics 620,windows,2.1,25521,2073600
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,,,-256,Nvidia, GeForce GTX 1070,windows,1.8,119427,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Nvidia, GeForce 940MX,,2.2,33513,2073600
+HP,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,1.8,16,SSD,512,Nvidia, GeForce 930MX ,windows,2.5,67719,2073600
+Acer,Notebook,15.6,,0,0,768,1366,AMD,A9-Series 9420,3,4,,256,AMD, Radeon R5,windows,2.1,24029,1049088
+HP,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,HDD,1024,Intel, UHD Graphics 620,windows,1.6,43263,2073600
+asus,Notebook,14,,0,0,768,1366,AMD,E-Series 6110,1.5,4,,64,AMD, Radeon R2,windows,1.7,14811,1049088
+Dell,Notebook,17.3,Full HD,0,0,,1920,Intel,Core i7,1.8,16,,256,AMD, Radeon 530,windows,2.8,74379,2073600
+HP,Notebook,17.3,Full HD,0,0,,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,2.5,49444,2073600
+,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,8,,1024,AMD, Radeon R7 M445,,2.4,34045,1049088
+Dell,Notebook,15.6,Full HD,0,0,,1920,Intel,Core i3,2,4,,1024,AMD, Radeon R5 M430,windows,2.2,23923,2073600
+,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i7,1.8,8,,256,Intel, UHD Graphics 620,,1.6,47100,2073600
+acer,Notebook,15.6,Full HD,0,0,,1920,Intel,Core i3,2.7,4,,-256,Nvidia, GeForce MX130,windows,,30476,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.7,8,HDD,1024,Intel, HD Graphics 620,windows,2.1,31861,1049088
+hp,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i7,1.8,,,256,Intel, UHD Graphics 620,windows,1.6,52641,2073600
+lenovo,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.1,4,,1024,Intel, HD Graphics 500,,1.9,13446,1049088
+,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,128,Nvidia, GeForce GTX 1050,,3,49977,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,1024,Nvidia, GeForce 920MX,,2.2,26587,2073600
+HP,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,2.5,4,SSD,256,Intel, HD Graphics 620,windows,1.3,37243,2073600
+Acer,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i3,2.7,4,,1024,Nvidia, GeForce MX130,windows,3,34898,2073600
+Lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i5,1.6,8,,256,AMD, Radeon RX 550,windows,1.8,59462,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,SSD,256,Nvidia, GeForce GTX 1050M,,2.4,46300,2073600
+Toshiba,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,4,,500,Intel, HD Graphics 520,windows,2.1,32075,1049088
+hp,Notebook,15.6,,0,0,768,1366,AMD,A6-Series 9220,2.5,4,,256,AMD, Radeon R4 Graphics,windows,1.9,19660,1049088
+Asus,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,256,Intel, UHD Graphics 620,windows,1.3,58555,2073600
+hp,Ultrabook,12.5,4k Ultra HD,1,1,2160,3840,Intel,Core M,1.2,20,,512,Intel, HD Graphics 515,windows,1,107306,8294400
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Itenl,Celeron Dual,1.1,4,,1024,Intel, HD Graphics 500,windows,2,18328,2073600
+Acer,Notebook,15.6,,0,0,768,1366,Itenl,Core i3,2,,,1024,Intel, HD Graphics 520,windows,2.1,23816,1049088
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,512,Nvidia, GeForce GTX 1050,windows,2.6,66561,2073600
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Itenl,Core i7,2.8,8,,1024,Nvidia, GeForce GTX 1050,windows,2.6,47899,2073600
+,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,128,Intel, HD Graphics 620,,1.9,26533,1049088
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1060,windows,2.8,100699,2073600
+HP,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.7,4,,256,Intel, HD Graphics 620,windows,1.5,57649,2073600
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,6,,256,AMD, Radeon 520,windows,1.9,32980,2073600
+Lenovo,2 in 1 Convertible,14,Full HD,1,1,1080,1920,Intel,Core i3,2.4,4,SSD,256,Intel, HD Graphics 620,windows,1.7,33513,2073600
+Asus,2 in 1 Convertible,13.3,Full HD,0,1,,1920,Intel,Core i5,1.6,8,,256,Intel, HD Graphics 620,windows,1.1,70063,2073600
+Dell,2 in 1 Convertible,15.6,Full HD,0,1,1080,1920,Intel,Core i7,1.8,8,,256,Intel, UHD Graphics 620,windows,1.6,55891,2073600
+toshiba,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.2,10,,500,Intel, HD Graphics 520,windows,2.1,23816,1049088
+Asus,Notebook,15.6,,0,0,768,1366,AMD,A9-Series 9420,3,4,,1024,AMD, Radeon R5 M420,windows,2,21472,1049088
+acer,Notebook,17.3,Full HD,1,0,1080,1920,Itenl,Core i5,1.6,4,,256,Nvidia, GeForce MX150,windows,3,42890,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Ientl,Core i5,1.6,8,,256,AMD, Radeon 520,windows,2.1,38788,2073600
+,Gaming,15.6,Full HD,1,0,1080,1920,Itenl,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050 Ti,,2.5,57489,2073600
+Acer,Notebook,15.6,,0,0,,1366,Intel,Celeron Dual,1.1,4,,1024,Intel, HD Graphics 500,windows,2.1,18541,1049088
+msi,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,Hybrid,256,Nvidia, GeForce GTX 1060,windows,,95851,2073600
+Acer,Notebook,15.6,,0,0,768,1366,Itnel,Pentium Quad,1.1,4,,1024,Intel, HD Graphics 505,windows,2.1,19368,1049088
+dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,128,Nvidia, GeForce GTX 1050,windows,2.6,56503,2073600
+,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i5,1.6,8,,256,Nvidia, GeForce MX150,,3,45501,2073600
+HP,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,1.6,4,,500,Intel, UHD Graphics 620,windows,1.5,40173,2073600
+Huawei,Ultrabook,13,Full HD,1,0,1440,2160,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.1,71875,3110400
+HP,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i5,2.5,6,HDD,2048,AMD, Radeon 520,windows,2.7,37243,2073600
+lenovo,Notebook,15.6,,0,0,768,1366,AMD,A6-Series 9220,2.9,,HDD,500,AMD, Radeon R4 Graphics,,2.2,16464,1049088
+Toshiba,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.4,4,HDD,500,Intel, HD Graphics 620,windows,5.4,26054,1049088
+hp,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,SSD,256,Nvidia, GeForce 930MX,windows,2.5,49177,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.4,8,HDD,1024,Intel, HD Graphics 620,windows,2.3,24456,1049088
+Acer,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,128,Intel, HD Graphics 520,windows,2.1,23923,1049088
+MSI,Gaming,18.4,Full HD,0,0,1080,1920,Intel,Core i7,2.9,32,,512,Nvidia, GTX 980 SLI,windows,,149131,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,,,128,AMD, R17M-M1-70,windows,1.9,43317,2073600
+HP,2 in 1 Convertible,13.3,4k Ultra HD,1,1,2160,3840,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,1.3,79867,8294400
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,16,,256,AMD, Radeon 530,linux,2,55891,2073600
+Dell,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,1.2,74539,2073600
+Lenovo,2 in 1 Convertible,13.9,4k Ultra HD,1,1,2160,3840,Intel,Core i7,1.8,16,,512,Intel, UHD Graphics 620,windows,1.4,98515,8294400
+Toshiba,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,8,,128,Intel, HD Graphics 620,windows,2,42251,1049088
+Xiaomi,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,1.6,8,,256,Nvidia, GeForce MX150,,2,63883,2073600
+dell,Notebook,17.3,Full HD,0,1,1080,1920,Intel,Core i7,1.8,16,,512,Nvidia, GeForce 150MX,windows,2.8,82531,2073600
+Dell,Notebook,15.6,4k Ultra HD,0,1,2160,3840,Ientl,Core i7,2.8,16,,512,Nvidia, GeForce GTX 1050,windows,2.1,127712,8294400
+Lenovo,Gaming,15.6,Full HD,1,0,,1920,Ientl,Core i5,2.5,8,SSD,-256,Nvidia, GeForce GTX 1050,,2.4,41505,2073600
+Acer,Ultrabook,13.3,Full HD,1,0,,1920,Intel,Core i5,1.2,8,,256,Intel, HD Graphics 615,windows,1.1,52694,2073600
+Dell,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,Hybrid,128,AMD, Radeon 530,windows,2.8,57809,2073600
+Vero,Notebook,14,Full HD,1,0,1080,1920,Itnel,Celeron Dual,1.1,4,,32,Intel, HD Graphics 500,windows,1.3,13853,2073600
+,Ultrabook,13.3,Full HD,1,0,1080,1920,Itenl,Core i5,2.5,8,,256,Nvidia, GeForce MX150,,1.3,53275,2073600
+lenovo,Notebook,17.3,,0,0,900,1600,Intel,Core i5,1.6,8,,256,Nvidia, GeForce MX150,,2.8,37189,1440000
+dell,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i7,1.8,8,HDD,1024,Intel, UHD Graphics 620,windows,1.6,44702,2073600
+hp,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i5,1.6,8,HDD,1024,Nvidia, GeForce 930MX,windows,2.5,48698,2073600
+Razer,Gaming,17.3,4k Ultra HD,0,1,2160,3840,Intel,Core i7,2.9,32,,-1024,Nvidia, GeForce GTX 1080,windows,3.5,324955,8294400
+HP,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,512,Intel, UHD Graphics 620,windows,1.5,51096,2073600
+HP,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050,windows,3.4,73473,2073600
+hp,Notebook,17.3,Full HD,0,0,,1920,Intel,Core i7,1.8,8,SSD,256,Nvidia, GeForce 930MX ,windows,2.5,55678,2073600
+dell,Gaming,15.6,4k Ultra HD,1,0,2160,3840,Ietnl,Core i7,2.8,16,Hybrid,512,Nvidia, GeForce GTX 1060,windows,2.7,98302,8294400
+lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,4,,128,Intel, HD Graphics 520,windows,2.1,26267,1049088
+Acer,Notebook,15.6,Full HD,0,0,,1920,Intel,Core i7,2.7,8,,1024,Nvidia, GeForce 940MX,windows,2.2,39534,2073600
+,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,,512,Nvidia, GeForce GTX 1060,,3.2,93187,2073600
+Dell,Workstation,15.6,4k Ultra HD,0,0,2160,3840,Intel,Xeon E3-1505M,3,16,Hybrid,256,Nvidia, Quadro M1200,windows,2.8,162770,8294400
+,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,SSD,512,Nvidia, GeForce GTX 1060,,2.4,-74485,2073600
+dell,Notebook,15.6,,0,1,768,1366,Intel,Core i3,2.4,6,,1024,Intel, HD Graphics 620,windows,2.3,23390,1049088
+Dell,Ultrabook,13.3,4k Ultra HD,1,1,2160,3840,Intel,Core i7,1.8,8,,256,Intel, UHD Graphics 620,windows,1.2,103843,8294400
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,HDD,1024,Nvidia, GeForce GTX 1050,,2.4,41505,2073600
+Asus,Gaming,17.3,Full HD,0,0,,1920,Intel,Core i7,2.8,16,Hybrid,256,Nvidia, GeForce GTX 1050,windows,2.9,74965,2073600
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,500,Intel, HD Graphics 520,,2.1,18595,2073600
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,,2.2,29251,2073600
+Huawei,Ultrabook,13,Full HD,1,0,1440,2160,Intel,Core i7,2.7,8,,512,Intel, HD Graphics 620,windows,1.1,79867,3110400
+Dell,Ultrabook,13.3,Full HD,1,0,1080,1920,Ietnl,Core i7,1.8,8,,256,AMD, Radeon 530,windows,1.4,49651,2073600
+lenovo,Notebook,17.3,,0,0,900,1600,Intel,Core i5,2.5,8,,1024,Nvidia, GeForce GTX 940MX,,2.8,31382,1440000
+HP,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,256,Nvidia, GeForce 930MX,windows,1.6,54932,2073600
+Dell,Ultrabook,14,Full HD,0,0,1080,1920,Inetl,Core i5,1.6,8,SSD,256,Intel, UHD Graphics 620,windows,1.6,61219,2073600
+Dell,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i7,1.8,16,SSD,512,Intel, UHD Graphics 620,windows,1.6,68145,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,256,AMD, Radeon 520,linux,2.2,36089,2073600
+Lenovo,2 in 1 Convertible,14,Full HD,1,0,1080,1920,Itenl,Core i5,1.6,,SSD,256,Intel, UHD Graphics 620,windows,1.7,47899,2073600
+Toshiba,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i7,2.5,8,SSD,256,Intel, HD Graphics 520,windows,1.2,72621,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Inetl,Core i5,1.6,20,,1024,Intel, UHD Graphics 620,windows,2.1,42304,2073600
+Dell,Gaming,17.3,Full HD,1,0,,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1060,windows,4.4,130874,2073600
+Acer,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,SSD,256,Nvidia, GeForce 940MX,windows,2.2,44329,2073600
+dell,Notebook,15.6,Full HD,0,1,1080,1920,Intel,Core i7,2.7,16,,1024,AMD, Radeon R7 M445,windows,2.3,45768,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Nvidia, GeForce 920MX ,,2,40972,2073600
+Asus,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,Hybrid,256,Nvidia, GeForce GTX 950M,windows,2.7,47472,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,-1024,AMD, FirePro W4190M ,windows,1.9,67612,2073600
+Asus,Notebook,15.6,,0,0,768,1366,Ientl,Core i3,2.4,4,,1024,Intel, HD Graphics 620,windows,2.4,21258,1049088
+,Notebook,15.6,,0,0,768,1366,AMD,E-Series 9000e,1.5,4,,500,AMD, Radeon R2,,2.1,-17582,1049088
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1060,windows,3.2,79867,2073600
+Dell,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.6,45768,2073600
+acer,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i5,2.3,8,SSD,256,Intel, HD Graphics 520,windows,1.6,36710,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,16,,256,AMD, Radeon R7 M445,linux,2.4,47899,2073600
+,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,HDD,1024,Intel, HD Graphics 520,,2.1,20779,1049088
+asus,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A10-Series A10-9620P,2.5,4,,128,AMD, Radeon R5 M430,windows,2.2,30636,2073600
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.9,32,,512,Nvidia, GeForce GTX 1080,windows,4.7,207259,2073600
+acer,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,256,Nvidia, GeForce GTX 1050,windows,2.5,45075,2073600
+Lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,8,,128,Intel, HD Graphics 520,windows,7.2,31382,1049088
+,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,1.8,20,Hybrid,-128,Nvidia, GeForce 150MX,,2.1,61006,2073600
+Asus,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,128,Nvidia, GeForce GTX 950M,,2.7,47366,2073600
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Ientl,Core i5,2.5,8,SSD,256,Nvidia, GeForce GTX 1050,windows,2.6,46833,2073600
+Lenovo,2 in 1 Convertible,13.9,Full HD,1,1,1080,1920,Intel,Core i7,2.7,8,,-256,Intel, HD Graphics 620,windows,1.4,57489,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Ietnl,Core i7,1.8,8,,128,AMD, Radeon 530,windows,2.2,52481,2073600
+hp,Notebook,15.6,,0,1,,1366,Intel,Core i5,2.5,20,,1024,Intel, HD Graphics 620,windows,2,29784,1049088
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Ietnl,Core i7,2.9,16,SSD,256,Nvidia, GeForce GTX 1080,windows,3.6,159787,2073600
+HP,Notebook,13.3,Full HD,1,0,1080,1920,Ientl,Core i5,1.6,4,,500,Intel, UHD Graphics 620,windows,1.5,35964,2073600
+Apple,Ultrabook,13.3,,1,0,1600,2560,Intel,Core i5,3.1,8,,512,Intel, Iris Plus Graphics 650,macos,1.4,108691,4096000
+dell,2 in 1 Convertible,15.6,Full HD,1,1,1080,1920,Intel,Core i7,1.8,8,,1024,Intel, UHD Graphics 620,windows,2.1,43636,2073600
+Asus,Gaming,17.3,Full HD,0,0,,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 980M,windows,4.3,95851,2073600
+asus,Notebook,15.6,,0,0,,1366,AMD,A9-Series 9420,3,,HDD,1024,AMD, Radeon R5 M420,windows,1.7,24988,1049088
+Lenovo,2 in 1 Convertible,13.9,Full HD,1,1,1080,1920,Intel,Core i7,1.8,8,SSD,512,Intel, UHD Graphics 620,windows,1.4,98515,2073600
+Acer,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i3,2.7,4,,256,Nvidia, GeForce MX130,windows,3,37403,2073600
+Dell,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,1.4,50563,2073600
+HP,Notebook,15.6,,0,0,768,1366,AMD,A6-Series A6-9220,2.5,8,,128,AMD, Radeon R4 Graphics,windows,1.9,23758,1049088
+hp,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i7,1.8,16,,1024,Nvidia, GeForce MX150,windows,2.9,56424,2073600
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,512,Nvidia, GeForce GTX 1070,windows,4.1,133147,2073600
+Lenovo,2 in 1 Convertible,15.6,Full HD,1,1,1080,1920,Inetl,Core i7,2.8,8,,512,Nvidia, GeForce GTX 1050M,windows,2,90523,2073600
+Dell,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,128,AMD, Radeon 530,windows,2.8,60846,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,256,Intel, HD Graphics 520,,2.2,23656,2073600
+HP,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,1.6,4,,500,Intel, HD Graphics 620,windows,2.1,38468,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,1024,Intel, HD Graphics 620,windows,2.2,35005,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,1024,AMD, Radeon R5 M430,windows,2.2,30103,2073600
+Dell,2 in 1 Convertible,15.6,Full HD,0,1,1080,1920,Intel,Core i5,1.6,8,SSD,256,Intel, UHD Graphics 620,windows,2.7,42571,2073600
+asus,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i7,1.8,8,,512,Intel, UHD Graphics 620,windows,4.1,79867,2073600
+HP,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,1024,Nvidia, GeForce 930MX ,windows,2.5,54239,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,SSD,256,Intel, UHD Graphics 620,windows,2.1,46886,2073600
+Apple,Ultrabook,13.3,,1,0,1600,2560,Intel,Core i5,2.9,8,SSD,512,Intel, Iris Graphics 550,macos,,104370,4096000
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,AMD,Ryzen 1700,3,16,Hybrid,256,AMD, Radeon RX 580,windows,,82531,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,SSD,256,AMD, Radeon 520,linux,2.1,39165,2073600
+,2 in 1 Convertible,14,,0,1,1440,2560,Intel,Core i7,2.6,16,,512,Intel, HD Graphics 520,,1.4,133147,3686400
+toshiba,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.5,8,,500,Nvidia, GeForce 930M,windows,2.2,43263,1049088
+Dell,Notebook,15.6,,0,0,768,1366,Inetl,Core i7,2.7,,HDD,1024,Intel, HD Graphics 620,windows,2.3,37992,1049088
+,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,128,AMD, Radeon 530,,2.8,58555,2073600
+Acer,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,1.8,8,,-1024,Nvidia, GeForce MX130,windows,2.2,39694,2073600
+Lenovo,Notebook,17.3,,0,0,900,1600,Intel,Core i3,2,4,,1024,Intel, HD Graphics 520,windows,2.8,26054,1440000
+lenovo,Notebook,17.3,Full HD,0,0,1080,1920,Ietnl,Core i7,1.8,8,,2048,Nvidia, GeForce MX150,,2.8,45235,2073600
+,Notebook,17.3,,0,0,900,1600,Intel,Core i7,2.7,6,Hybrid,128,Nvidia, GeForce 940MX,,2.8,45768,1440000
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,HDD,1024,AMD, Radeon R5 M430,,2.3,22804,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Ietnl,Core i5,2.5,8,,256,Nvidia, GeForce GTX 1050,windows,2.5,44169,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,15,,256,Intel, HD Graphics 620,windows,2.2,30849,2073600
+Acer,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,1.8,8,,256,Nvidia, GeForce MX150,windows,3,50669,2073600
+Acer,Notebook,15.6,Full HD,1,1,1080,1920,Intel,Core i7,2.7,12,HDD,1024,Intel, HD Graphics 620,windows,2.2,35112,2073600
+lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.7,,SSD,256,Intel, HD Graphics 630,windows,2,58448,2073600
+Asus,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Nvidia, GeForce 940MX,windows,1.7,52055,2073600
+lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050 Ti,windows,2.5,62817,2073600
+,Notebook,15.6,Full HD,0,0,,1920,Intel,Core i7,2.7,8,,1024,Nvidia, GeForce 940MX,,,35112,2073600
+acer,Notebook,15.6,,0,0,768,1366,Itenl,Celeron Dual,1.5,2,,-16,Intel, HD Graphics,other,2.2,10603,1049088
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,1024,Nvidia, GeForce GTX 1050,windows,3,63243,2073600
+hp,Notebook,17.3,,0,0,900,1600,Intel,Core i3,2,8,HDD,1024,Intel, HD Graphics 520,windows,2.5,26054,1440000
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,256,Nvidia, GeForce GTX 1050,windows,2,97449,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,2.1,39374,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,HDD,1024,Nvidia, GeForce GTX 1060,windows,3.2,69211,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,256,Nvidia, GeForce GTX 1050 Ti,,2.5,52161,2073600
+Dell,Workstation,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.9,16,,256,Nvidia, Quadro M1200,windows,3.4,153705,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A10-Series 9600P,2.4,6,,1024,AMD, Radeon R5 430,windows,2.4,26587,2073600
+Asus,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,16,SSD,512,Nvidia, GeForce 940MX,windows,,78215,2073600
+,Notebook,14,,0,0,768,1366,Intel,Core i3,2.4,4,,128,Intel, HD Graphics 620,,1.3,27120,1049088
+asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,Hybrid,-256,Nvidia, GeForce GTX 1070,windows,2.9,113060,2073600
+Lenovo,Notebook,17.3,,0,0,900,1600,Intel,Core i5,2.5,6,,1024,Nvidia, GeForce GTX 940M,windows,5.8,34579,1440000
+Lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,8,,2048,Nvidia, GeForce 940MX,,2.2,29251,1049088
+asus,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,128,Nvidia, GeForce GTX 1050 Ti,windows,2.5,67399,2073600
+Lenovo,Notebook,15.6,,0,0,768,1366,Intel,Pentium Quad,1.1,4,,1024,Intel, HD Graphics 505,,2.2,19180,1049088
+,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i7,2.8,16,SSD,256,Intel, HD Graphics 620,,1.3,105228,2073600
+Toshiba,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.5,8,,256,Nvidia, GeForce 930M,windows,2.2,55571,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,,1920,Intel,Core i5,2.5,8,Hybrid,128,Nvidia, GeForce 940MX,windows,,43636,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,1024,Intel, HD Graphics 520,windows,1.9,24988,2073600
+Lenovo,Notebook,13.3,Full HD,1,0,1080,1920,Ientl,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.1,53227,2073600
+,Ultrabook,13.3,4k Ultra HD,1,1,2160,3840,Itenl,Core i7,1.8,16,SSD,1024,Intel, UHD Graphics 620,,1.2,133147,8294400
+msi,Gaming,15.6,Full HD,1,0,1080,1920,Inetl,Core i7,2.8,16,Hybrid,256,Nvidia, GeForce GTX 1070,windows,2.8,111835,2073600
+Acer,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A8-Series 7410,2.2,8,SSD,256,AMD, Radeon R5,windows,2.2,24988,2073600
+Asus,2 in 1 Convertible,11.6,,0,1,768,1366,Intel,Celeron Dual,1.1,2,,32,Intel, HD Graphics 500,windows,1.1,14652,1049088
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Itnel,Core i5,1.6,8,,128,AMD, Radeon 530,windows,2.3,44968,2073600
+hp,2 in 1 Convertible,13.3,4k Ultra HD,1,1,2160,3840,Intel,Core i7,1.8,16,,1024,Intel, UHD Graphics 620,windows,1.3,130483,8294400
+Lenovo,Notebook,13.3,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,16,Intel, HD Graphics 510,other,1.5,24503,1049088
+hp,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,2,52214,2073600
+acer,Notebook,11.6,,0,0,768,1366,Intel,Pentium Quad,1.6,4,,128,Intel, HD Graphics 405,windows,1.4,25841,1049088
+hp,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.5,68838,2073600
+lenovo,Notebook,17.3,,0,0,900,1600,Intel,Core i5,2.5,4,HDD,1024,Nvidia, GeForce 920MX,windows,2.8,31382,1440000
+Asus,Notebook,14,Full HD,0,0,,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,2,58288,2073600
+hp,Notebook,15.6,Full HD,1,0,768,1366,Itnel,Core i7,1.8,8,,1024,Intel, UHD Graphics 620,windows,2.1,48059,1049088
+Acer,Notebook,15.6,,0,0,768,1366,AMD,A12-Series 9720P,2.7,8,,256,AMD, Radeon RX 540,windows,2.2,35112,1049088
+Lenovo,Notebook,14,,0,0,768,1366,Ietnl,Celeron Dual,1.1,4,,-32,Intel, HD Graphics 500,windows,1.4,15558,1049088
+acer,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,6,,1024,Intel, HD Graphics 620,windows,8.2,29251,1049088
+Asus,Ultrabook,15.6,Full HD,0,0,1080,1920,Inetl,Core i7,2.7,8,,256,Nvidia, GeForce 940MX,windows,1.7,55939,2073600
+HP,Ultrabook,12.5,Full HD,0,0,1080,1920,Ientl,Core i7,2.7,20,,256,Intel, HD Graphics 620,windows,1.3,71129,2073600
+dell,Notebook,15.6,4k Ultra HD,0,1,2160,3840,Intel,Core i7,2.8,32,,1024,Nvidia, GeForce GTX 1050,windows,2.1,140606,8294400
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Ietnl,Core i7,2.8,8,,256,Nvidia, GeForce GTX 1050 Ti,windows,2.7,63883,2073600
+toshiba,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,2,50243,2073600
+asus,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,2,71076,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Ientl,Core i3,2,,,1024,Intel, HD Graphics 520,windows,1.9,23923,2073600
+Asus,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,256,Nvidia, GeForce GTX 1050,windows,2.5,53227,2073600
+hp,Notebook,14,Full HD,0,0,1080,1920,Itnel,Core i5,2.6,8,SSD,256,Intel, HD Graphics 620,windows,1.5,67559,2073600
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.8,60952,2073600
+asus,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.1,4,,1024,Intel, HD Graphics 500,linux,2,14651,1049088
+Dell,Notebook,15.6,Full HD,0,0,,1920,Intel,Core i5,1.6,8,SSD,-256,Nvidia, GeForce 940MX,windows,2,60886,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Itnel,Celeron Dual,1.6,4,HDD,500,Intel, HD Graphics,linux,2.2,14647,1049088
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A12-Series 9720P,3.6,12,,2048,AMD, Radeon 530,windows,2.2,-47899,2073600
+hp,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i3,2.4,8,,1024,Nvidia, GeForce 930MX ,windows,2.1,-38148,2073600
+Lenovo,2 in 1 Convertible,13.9,4k Ultra HD,1,1,2160,3840,Intel,Core i7,1.8,16,SSD,512,Intel, UHD Graphics 620,windows,1.4,111835,8294400
+Dell,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,SSD,256,Intel, UHD Graphics 620,windows,1.2,84129,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050 Ti,windows,2.4,60153,2073600
+HP,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.6,2,Flash Storage,32,Intel, HD Graphics 400,windows,1.4,14865,1049088
+Dell,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.9,16,,512,Intel, UHD Graphics 620,windows,1.9,85672,2073600
+asus,2 in 1 Convertible,11.6,,0,1,768,1366,Intel,Celeron Dual,1.1,4,,32,Intel, HD Graphics 500,windows,1.5,19980,1049088
+Dell,Ultrabook,15.6,Full HD,0,0,1080,1920,Itnel,Core i5,1.6,8,HDD,1024,AMD, Radeon 530,windows,0,35325,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Itnel,Core i7,2.7,8,SSD,256,Intel, HD Graphics 620,windows,1.8,69477,2073600
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Ietnl,Core i7,2.8,8,,128,Nvidia, GeForce GTX 1060,windows,2.7,75072,2073600
+HP,Workstation,15.6,Full HD,0,0,1080,1920,Itnel,Core i7,2.8,8,SSD,256,Nvidia, Quadro M1200,windows,2.6,92615,2073600
+toshiba,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.5,16,SSD,512,Nvidia, GeForce 930M,windows,2.4,74752,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,128,AMD, Radeon 530,windows,2,51730,2073600
+,Notebook,15.6,,0,0,768,1366,Itenl,Celeron Dual,1.1,4,,1024,Intel, HD Graphics 500,,2.2,17156,1049088
+dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,HDD,1024,Nvidia, GeForce GTX 1050,windows,2.7,53227,2073600
+dell,Notebook,15.6,,0,1,768,1366,Intel,Core i5,2.5,8,,2048,Intel, HD Graphics 620,windows,2.4,29697,1049088
+,Notebook,14,Full HD,0,0,1080,1920,Ietnl,Core i5,2.6,8,SSD,256,Intel, HD Graphics 620,,1.4,76031,2073600
+hp,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,500,Intel, HD Graphics 520,windows,1.9,23390,1049088
+,Notebook,14,Full HD,0,0,1080,1920,Itnel,Core i5,2.5,8,,256,Intel, HD Graphics 620,,2,50350,2073600
+Lenovo,Notebook,17.3,,0,0,,1600,Intel,Core i5,2.5,6,,128,Nvidia, GeForce GTX 940MX,windows,2.8,38308,1440000
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Ietnl,Core i5,2.5,8,,-1024,Intel, HD Graphics 620,windows,1.9,34046,2073600
+,Notebook,15.6,,0,0,768,1366,Inetl,Core i3,2,8,,256,Nvidia, GeForce 920MX ,,2.2,26587,1049088
+hp,Notebook,15.6,,0,0,768,1366,Intel,Pentium Quad,1.6,8,HDD,2048,Intel, HD Graphics 405,windows,,20726,1049088
+Dell,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,128,AMD, Radeon 530,windows,2.8,57809,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,128,Nvidia, GeForce GTX 1050,,2.4,43104,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,-256,AMD, Radeon R7 M445,windows,2.3,47899,2073600
+HP,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.4,93240,2073600
+Asus,2 in 1 Convertible,15.6,Full HD,0,1,1080,1920,Intel,Core i7,2.7,12,,512,Nvidia, GeForce GT 940MX,windows,2.3,58555,2073600
+Acer,Notebook,15.6,,0,0,768,1366,AMD,A9-Series 9420,3,4,,128,AMD, Radeon R5,windows,2.1,22697,1049088
+Asus,Gaming,17.3,Full HD,1,0,,1920,AMD,Ryzen 1700,3,,,256,AMD, Radeon RX 580,windows,3.3,117163,2073600
+Lenovo,Notebook,17.3,,0,0,900,1600,AMD,A8-Series 7410,2.2,,,128,AMD, Radeon R5,windows,2.6,26054,1440000
+Dell,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i7,1.8,8,,256,Intel, UHD Graphics 620,windows,1.6,46301,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A9-Series 9420,3,4,SSD,-256,AMD, Radeon R5,windows,1.9,26053,2073600
+lenovo,Netbook,11.6,,1,0,768,1366,Intel,Celeron Quad,1.1,4,SSD,128,Intel, HD Graphics 500,windows,1.6,29464,1049088
+dell,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,500,Intel, HD Graphics 400,windows,1.8,16464,1049088
+Asus,Notebook,14,,0,0,768,1366,Ietnl,Celeron Dual,1.1,4,,32,Intel, HD Graphics 500,windows,1.5,15238,1049088
+Acer,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,1024,Nvidia, GeForce GTX 1050,linux,2.4,45075,2073600
+hp,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,128,Nvidia, GeForce GTX 1050,windows,3.4,63456,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,128,Intel, HD Graphics 520,,1.9,21498,2073600
+Asus,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,-128,Nvidia, GeForce GTX 1060,windows,2.3,88178,2073600
+Lenovo,Notebook,14,Full HD,1,0,1080,1920,Itnel,Core i5,2.5,8,,256,Nvidia, GeForce 940MX,windows,1.5,58555,2073600
+,Ultrabook,13.3,Full HD,0,1,1080,1920,Intel,Core i7,2.7,16,,512,Intel, HD Graphics 620,,1.1,93181,2073600
+,Ultrabook,14,,1,0,1440,2560,Intel,Core i7,2.7,8,SSD,512,Intel, HD Graphics 620,,1.1,121585,3686400
+Lenovo,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i3,2.4,4,,128,Intel, HD Graphics 620,windows,1.5,29251,2073600
+Dell,Workstation,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.6,8,,500,AMD, FirePro W5130M,windows,2.2,72940,2073600
+Dell,Workstation,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,,256,Nvidia, Quadro M1200,windows,2,113753,2073600
+,2 in 1 Convertible,14,,0,1,1440,2560,Intel,Core i7,2.7,16,,512,Intel, HD Graphics 620,,1.4,133680,3686400
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,1024,Nvidia, GeForce GTX 1050,windows,3,55358,2073600
+asus,Gaming,17.3,Full HD,0,0,1080,1920,Itenl,Core i7,2.8,,Hybrid,256,Nvidia, GeForce GTX 1050 Ti,windows,3,84768,2073600
+Acer,Notebook,15.6,,1,0,,1366,Intel,Core i5,1.6,,,1024,Nvidia, GeForce MX130,windows,2.2,36976,1049088
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Inetl,Core i7,2.8,8,,256,Nvidia, GeForce GTX 1050 Ti,windows,2.7,71875,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Itenl,Core i7,2.7,8,SSD,256,AMD, Radeon R7 M445,linux,2.3,41498,2073600
+HP,Ultrabook,15.6,Full HD,0,0,1080,1920,AMD,A9-Series 9420,3,10,,256,AMD, Radeon 520,windows,1.9,26587,2073600
+lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,1.8,8,,-256,AMD, Radeon RX 550,windows,2.1,65511,2073600
+Lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.9,49977,2073600
+Dell,Workstation,15.6,4k Ultra HD,0,1,,3840,Intel,Core i7,2.8,8,,256,Nvidia, Quadro M1200,windows,1.8,144495,8294400
+lenovo,Ultrabook,14,,1,0,1440,2560,Ientl,Core i7,2.7,16,SSD,-1024,Intel, HD Graphics 620,windows,1.1,139860,3686400
+Lenovo,Notebook,15.6,,0,0,,1366,Intel,Celeron Dual,1.1,10,HDD,1024,Intel, HD Graphics 500,windows,,16304,1049088
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050,windows,2.9,81465,2073600
+Lenovo,Notebook,25.6,Full HD,1,0,1080,1920,Itnel,Core i5,1.6,8,,-256,AMD, Radeon RX 550,windows,,-60979,2073600
+acer,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,SSD,256,Nvidia, GeForce GTX 1050,linux,2.5,46833,2073600
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1070,windows,2.8,119827,2073600
+asus,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,512,Intel, HD Graphics 620,windows,1.1,99793,2073600
+Toshiba,Ultrabook,13.3,Full HD,0,0,,1920,Intel,Core i7,2.5,16,,512,Intel, HD Graphics 520,windows,1.2,93080,2073600
+Dell,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,512,Intel, HD Graphics,windows,1.4,89510,2073600
+Lenovo,Notebook,35.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,HDD,500,Intel, HD Graphics 520,windows,2.2,21792,2073600
+lenovo,Notebook,11.6,,0,0,768,1366,Ientl,Celeron Dual,1.1,2,Flash Storage,32,Intel, HD Graphics 500,windows,1.2,16221,1049088
+lenovo,Workstation,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,512,Nvidia, Quadro M1200,windows,2.7,102564,2073600
+lenovo,Ultrabook,14,Full HD,1,0,,2560,Intel,Core i7,2.8,8,,512,Nvidia, GeForce GT 940MX,windows,1.7,103523,3686400
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,1024,AMD, Radeon 520,windows,2.1,24988,2073600
+acer,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Itenl,Core i7,2.5,,SSD,256,Intel, HD Graphics 520,windows,1.6,42038,2073600
+Asus,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.3,49444,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,256,AMD, Radeon R5 M430,linux,2.3,31909,2073600
+Dell,Notebook,13.3,,0,0,768,1366,Intel,Core i3,2,4,,128,Intel, HD Graphics 520,windows,1.7,36710,1049088
+HP,Ultrabook,14,Full HD,0,0,1080,1920,Itenl,Core i7,2.5,,SSD,256,Intel, HD Graphics 520,windows,1.4,79920,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,8,,1024,Intel, HD Graphics 620,windows,2.1,28769,1049088
+Lenovo,Ultrabook,14,Full HD,1,0,1080,1920,Inetl,Core i7,1.8,8,,256,AMD, Radeon RX 550,windows,,64755,2073600
+lenovo,2 in 1 Convertible,15.6,4k Ultra HD,1,1,2160,3840,Intel,Core i7,2.8,16,,-512,Nvidia, GeForce GTX 1050,windows,2,101179,8294400
+Chuwi,Notebook,12.3,,1,0,1824,2736,Intel,Celeron Quad,1.1,6,,64,Intel, HD Graphics 500,windows,1.4,23923,4990464
+hp,Notebook,15.6,Full HD,0,0,,1920,Ietnl,Core i7,2.9,8,,256,Intel, HD Graphics 630,windows,2.3,76031,2073600
+,Notebook,35.6,Full HD,0,0,1080,1920,Intel,Core i3,2.4,8,,1024,Nvidia, GeForce 940MX,,2.3,31808,2073600
+Dell,Gaming,27.3,,1,0,1440,2560,Ietnl,Core i7,2.9,16,,256,Nvidia, GeForce GTX 1070,windows,4.4,149131,3686400
+Dell,Gaming,15.6,Full HD,1,0,1080,1920,Itnel,Core i7,2.8,8,Hybrid,128,Nvidia, GeForce GTX 1050 Ti,windows,2.6,61752,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Ientl,Core i7,1.8,8,,256,AMD, Radeon 530,windows,2,60867,2073600
+dell,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,256,Intel, HD Graphics 620,linux,1.6,58555,2073600
+HP,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,12,,256,Nvidia, GeForce GTX 1070,windows,3.4,106507,2073600
+mediacom,2 in 1 Convertible,11.6,Full HD,1,1,1080,1920,Intel,Celeron Dual,1.1,,,32,Intel, HD Graphics 500,windows,1.2,15931,2073600
+samsung,Netbook,11.6,,0,0,768,1366,Ietnl,Celeron Dual,1.6,4,Flash Storage,16,Intel, HD Graphics 400,other,1.2,14332,1049088
+Lenovo,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.4,53813,2073600
+Lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i3,2.7,4,,128,Intel, HD Graphics 620,windows,1.7,31915,2073600
+Lenovo,Workstation,15.6,4k Ultra HD,1,0,2160,3840,Intel,Core i7,2.8,16,SSD,512,Nvidia, GeForce 940MX,windows,2.3,130270,8294400
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Ientl,Core i7,2.9,16,,512,Nvidia, Quadro M2200M,windows,2.5,130483,2073600
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,AMD,Ryzen 1600,3.2,8,Hybrid,256,AMD, Radeon RX 580,windows,3.2,90310,2073600
+HP,Notebook,15.6,,0,0,768,1366,Itenl,Celeron Dual,1.6,4,,-500,Intel, HD Graphics 400,windows,2.1,18488,1049088
+Google,Ultrabook,12.3,,0,1,1600,2400,Ietnl,Core i7,1.3,16,,512,Intel, HD Graphics 615,other,1.1,117163,3840000
+Lenovo,Ultrabook,24,,0,0,1440,2560,Intel,Core i7,2.7,24,SSD,512,Intel, HD Graphics 620,windows,1.3,126913,3686400
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,SSD,256,Intel, HD Graphics 620,linux,2,29784,2073600
+Lenovo,Notebook,17.3,,0,0,900,1600,AMD,A6-Series 9220,2.5,8,,1024,AMD, Radeon R4,windows,2.8,27652,1440000
+Dell,Notebook,15.6,Full HD,0,0,,1920,Ientl,Core i5,1.6,4,SSD,256,AMD, Radeon 530,windows,2.2,39907,2073600
+Lenovo,Ultrabook,12.5,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.4,76137,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Inetl,Pentium Quad,1.1,4,,128,Intel, HD Graphics 505,windows,2.2,18595,2073600
+,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,20,Hybrid,-128,Nvidia, GeForce GTX 1050,,2.2,58555,2073600
+dell,Notebook,14,Full HD,0,0,1080,1920,Itenl,Core i5,2.8,8,,256,Nvidia, GeForce 930MX,windows,1.6,62817,2073600
+Acer,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,500,Intel, HD Graphics 620,linux,2.4,-23539,1049088
+Dell,Workstation,15.6,Full HD,0,0,1080,1920,Itnel,Xeon E3-1505M,3,8,,64,Nvidia, Quadro M620,windows,2.2,106187,2073600
+msi,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,20,,256,Nvidia, GeForce GTX 1050,windows,2.2,54758,2073600
+microsoft,Ultrabook,13.5,,0,1,1504,2256,Ientl,Core i7,2.5,16,,512,Intel, Iris Plus Graphics 640,windows,,137942,3393024
+hp,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,8,,128,Intel, HD Graphics 620,windows,1.9,31382,1049088
+dell,Workstation,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.7,40,SSD,256,Nvidia, Quadro M620,windows,2.2,105228,2073600
+HP,Workstation,15.6,Full HD,1,0,1080,1920,Ientl,Core i7,2.9,8,,512,Intel, HD Graphics 620,windows,2.3,81732,2073600
+Lenovo,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.7,71662,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,20,Hybrid,128,AMD, Radeon 530,,2.4,52161,2073600
+Dell,2 in 1 Convertible,11.6,,0,1,768,1366,Intel,Pentium Quad,1.6,4,,500,Intel, HD Graphics 405,windows,1.5,25521,1049088
+dell,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,,-1024,Nvidia, GeForce GTX 1060,windows,4.4,109011,2073600
+,Ultrabook,13.5,,0,1,1504,2256,Intel,Core M,2.2,4,,128,Intel, HD Graphics 615,,1.3,52694,3393024
+,Ultrabook,33.5,,0,1,1504,2256,Ientl,Core i7,2.5,8,,256,Intel, Iris Plus Graphics 640,,1.3,95851,3393024
+hp,Notebook,17.3,,0,0,900,1600,Intel,Core i3,2,8,SSD,256,Intel, HD Graphics 520,windows,2.5,34094,1440000
+acer,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,HDD,1024,Nvidia, GeForce 940MX,windows,2.2,28984,2073600
+Acer,Netbook,11.6,,0,0,768,1366,Ietnl,Celeron Dual,1.6,4,,128,Intel, HD Graphics 400,windows,1.4,23177,1049088
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,HDD,1024,Intel, HD Graphics 620,windows,2.4,39907,2073600
+lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.7,20,SSD,512,AMD, Radeon R7 M460,,1.5,42571,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.9,8,SSD,256,Nvidia, Quadro M2200M,windows,2.7,111355,2073600
+asus,Notebook,15.6,,0,0,768,1366,Inetl,Pentium Quad,1.1,4,,500,Intel, HD Graphics 500,windows,2,16197,1049088
+Acer,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,500,Nvidia, GeForce GTX 940MX,windows,2.2,24988,1049088
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,2048,AMD, Radeon 530,windows,2,40440,2073600
+,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.8,12,,1024,Nvidia, GeForce GTX 1060,,3.8,90523,2073600
+,Ultrabook,14,Quad HD +,1,0,1440,2560,Itnel,Core i7,2.6,12,,256,Intel, HD Graphics 520,,1.4,98994,3686400
+HP,2 in 1 Convertible,13.3,4k Ultra HD,1,1,2160,3840,Intel,Core i7,1.8,,,512,Intel, UHD Graphics 620,windows,1.3,106507,8294400
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,500,AMD, FirePro W4190M ,windows,1.9,61485,2073600
+Google,Ultrabook,12.3,,0,1,,2400,Intel,Core i5,1.2,8,,128,Intel, HD Graphics 615,other,,67932,3840000
+Dell,Ultrabook,13.3,Full HD,0,1,1080,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,1.4,98134,2073600
+asus,Notebook,15.6,4k Ultra HD,1,0,2160,3840,Intel,Core i7,2.6,,,128,Intel, HD Graphics 530,windows,2.1,69211,8294400
+dell,Notebook,14,,0,0,768,1366,Intel,Core i3,2.3,8,,128,Intel, HD Graphics 520,windows,,39427,1049088
+lenovo,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,180,Intel, HD Graphics 620,windows,1.7,72674,2073600
+toshiba,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,,89084,2073600
+Dell,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,1.8,8,,512,Nvidia, GeForce 940MX,windows,2.2,67239,2073600
+Dell,Notebook,15.6,,0,0,,1366,Intel,Core i3,2.4,4,,1024,Intel, HD Graphics 620,windows,2.2,31254,1049088
+,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,1.6,4,,128,Intel, UHD Graphics 620,,1.5,38681,2073600
+Chuwi,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Atom x5-Z8350,1.4,4,,64,Intel, HD Graphics,windows,1.9,132610,2073600
+lenovo,Notebook,15.6,,0,0,768,1366,Itenl,Core i3,2,4,,128,Intel, HD Graphics 520,windows,2.3,30103,1049088
+lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,1.8,55891,2073600
+Dell,Workstation,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.7,16,,512,Nvidia, Quadro M620,windows,2.2,124569,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,512,Nvidia, GeForce GTX 1050,windows,2.1,101179,2073600
+,Ultrabook,12.5,Full HD,1,0,,1920,Intel,Core i7,2.7,16,SSD,512,Intel, HD Graphics 620,,1.4,95797,2073600
+,Ultrabook,12.5,Full HD,0,0,1080,1920,Intel,Core i7,2.7,16,,512,Intel, HD Graphics 620,,0.9,103896,2073600
+Lenovo,Notebook,15.6,Full HD,1,0,,1920,Intel,Core i5,2.5,8,SSD,256,Nvidia, GeForce 940MX,windows,2.3,53919,2073600
+toshiba,Ultrabook,13.3,Full HD,0,1,1080,1920,Intel,Core i7,2.7,32,,-512,Intel, HD Graphics 620,windows,1.1,149131,2073600
+Asus,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,128,Nvidia, GeForce GTX 1050,windows,2,71928,2073600
+,Notebook,15.6,,0,0,,1366,AMD,A10-Series 9620P,2.5,8,HDD,1024,AMD, Radeon RX 540,,2.2,30849,1049088
+Asus,Gaming,17.3,Full HD,1,1,1080,1920,Intel,Core i7,2.6,24,Hybrid,256,Nvidia, GeForce GTX 965M,windows,4.3,67612,2073600
+Lenovo,Ultrabook,12.5,,1,0,768,1366,Intel,Core i5,2.3,8,,180,Intel, HD Graphics 520,windows,1.3,58555,1049088
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,-256,Intel, UHD Graphics 620,windows,2.2,47893,2073600
+HP,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,1024,Intel, HD Graphics 620,windows,1.5,93187,2073600
+Lenovo,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i3,2.4,,,256,Intel, HD Graphics 620,windows,1.4,50563,2073600
+Lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Itnel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,2.3,48538,2073600
+Asus,Netbook,11.6,,0,0,768,1366,Intel,Celeron Dual,1.1,4,,64,Intel, HD Graphics 500,windows,1.2,18115,1049088
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,8,SSD,256,AMD, Radeon 520,windows,1.9,32980,1049088
+Lenovo,2 in 1 Convertible,13.9,Full HD,1,1,1080,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,1.4,85195,2073600
+Lenovo,Notebook,14,,0,0,768,1366,Ientl,Celeron Dual,1.1,10,HDD,500,Intel, HD Graphics 500,windows,2.1,15931,1049088
+Lenovo,Netbook,11.6,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,16,Intel, HD Graphics 400,other,1.3,14119,1049088
+Lenovo,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.4,50563,2073600
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,Hybrid,256,Intel, HD Graphics 620,windows,,65215,2073600
+,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,1.6,10,,1024,Nvidia, GeForce MX150,,2.2,32661,2073600
+HP,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,SSD,512,Intel, HD Graphics 620,windows,1.3,70489,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,,256,Nvidia, GeForce GTX 1060,,2.4,61219,2073600
+,Ultrabook,13.3,Full HD,1,1,1080,1920,Intel,Core i5,2.5,8,SSD,128,Intel, HD Graphics 620,,1.3,47899,2073600
+Acer,Notebook,15.6,Full HD,0,0,1080,1920,Inetl,Core i7,2.7,4,,500,Nvidia, GeForce 940MX,windows,2.2,34046,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,1024,Intel, HD Graphics 620,windows,2.2,44542,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,16,,256,AMD, Radeon 530,windows,2.2,64961,2073600
+Xiaomi,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,1.8,16,,256,Nvidia, GeForce MX150,,2,74589,2073600
+asus,Netbook,11.6,,0,0,768,1366,Intel,Celeron Dual,1.1,2,,32,Intel, HD Graphics 500,windows,1.1,-13054,1049088
+hp,Notebook,15.6,,0,1,768,1366,Intel,Core i5,1.6,4,,1024,Intel, UHD Graphics 620,windows,2,27784,1049088
+Asus,Gaming,15.6,Full HD,0,0,1080,1920,Inetl,Core i7,2.8,24,,512,Nvidia, GeForce GTX1080,windows,2.2,158135,2073600
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Nvidia, GeForce 930MX,windows,2,47366,2073600
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,40,Hybrid,256,Nvidia, GeForce GTX1050 Ti,windows,3,80133,2073600
+,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,256,Nvidia, GeForce GTX 1060,,3.2,74539,2073600
+hp,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.3,74539,2073600
+Dell,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.6,8,,256,Intel, HD Graphics 620,windows,1.6,68184,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,128,Intel, HD Graphics 520,windows,1.6,36710,1049088
+Dell,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i5,1.6,8,,128,AMD, Radeon 530,linux,2.8,47366,2073600
+Lenovo,Notebook,24,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,SSD,256,Intel, HD Graphics 520,windows,2,71395,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,4,,1024,Nvidia, GeForce 920MX,windows,2.2,42571,2073600
+Lenovo,Notebook,15.6,,0,0,768,1366,Ietnl,Core i3,2,8,,2048,Nvidia, GeForce 920MX ,,2.2,24456,1049088
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,500,AMD, Radeon R5 M430,windows,2.3,31169,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.8,8,,256,Intel, HD Graphics 620,windows,1.9,73367,2073600
+Dell,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.8,40,,128,Nvidia, GeForce GTX 1070,windows,4.4,160520,2073600
+Toshiba,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,500,Intel, HD Graphics 620,windows,2,45821,2073600
+Asus,Notebook,15.6,4k Ultra HD,1,0,2160,3840,Intel,Core i7,2.7,8,Hybrid,256,Nvidia, GeForce GTX 960M,windows,2,69211,8294400
+mediacom,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Celeron Quad,1.1,4,,32,Intel, HD Graphics 500,windows,1.2,19660,2073600
+Asus,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,128,Nvidia, GeForce GTX 1060,windows,2.3,87859,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,256,Nvidia, GeForce 930MX,windows,1.9,72940,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,256,AMD, Radeon 530,windows,2.2,42486,2073600
+HP,Notebook,15.6,Full HD,0,0,,1920,Intel,Pentium Quad,1.6,10,SSD,256,Intel, HD Graphics 405,windows,1.9,21258,2073600
+hp,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,12,,1024,Nvidia, GeForce GTX 1060,windows,2.6,95851,2073600
+lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,SSD,-256,Nvidia, GeForce 940MX,windows,1.9,45768,2073600
+Dell,Ultrabook,13.3,Quad HD +,0,1,1800,3200,Intel,Core i7,1.8,8,,256,Intel, UHD Graphics 620,windows,1.2,74539,5760000
+dell,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,128,Intel, HD Graphics 520,windows,,39207,2073600
+HP,Ultrabook,13.3,Quad HD +,1,0,1800,3200,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.3,61006,5760000
+Acer,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,1024,Nvidia, GeForce GTX 1050,linux,2.4,42517,2073600
+asus,Notebook,15.6,,0,0,768,1366,AMD,E-Series 7110,1.8,4,HDD,500,AMD, Radeon R2 Graphics,windows,2,18595,1049088
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2.4,4,,128,Intel, HD Graphics 620,windows,2.1,37589,2073600
+Lenovo,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,HDD,500,Intel, HD Graphics 620,windows,1.9,41825,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.3,4,,1024,Intel, HD Graphics 520,,2.2,24634,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,500,Intel, HD Graphics 520,windows,1.9,21152,2073600
+Lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.7,,,512,Intel, HD Graphics 620,windows,2,92121,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,10,,128,Intel, HD Graphics 520,windows,2.2,26587,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.9,59513,2073600
+Dell,Gaming,17.3,Full HD,1,0,,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1070,windows,4.4,143803,2073600
+HP,Notebook,17.3,,0,0,900,1600,Itnel,Core i3,2,8,,1024,Intel, HD Graphics 520,windows,2.7,28992,1440000
+HP,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,1024,Nvidia, GeForce 930MX,windows,2.6,68198,2073600
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.1,4,HDD,500,Intel, HD Graphics 500,linux,2,11935,1049088
+Mediacom,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Atom x5-Z8350,1.4,4,Flash Storage,32,Intel, HD Graphics,windows,1.4,13586,2073600
+lenovo,Notebook,17.3,,0,0,,1600,Intel,Core i7,2.7,6,Hybrid,-128,Nvidia, GeForce 940MX,windows,2.8,50563,1440000
+HP,Notebook,15.6,Full HD,1,0,1080,1920,AMD,A10-Series A10-9620P,2.5,6,,128,AMD, Radeon 530,windows,1.9,30311,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Ientl,Core i3,2,4,HDD,1024,AMD, Radeon R5 M420,windows,2.2,32922,1049088
+Acer,2 in 1 Convertible,11.6,Full HD,1,1,1080,1920,Intel,Celeron Dual,2,4,Flash Storage,32,Intel, HD Graphics 500,windows,1.3,18595,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2.7,4,,128,Intel, HD Graphics 620,windows,2.1,33566,2073600
+HP,Ultrabook,13.3,Quad HD +,1,1,1800,3200,Intel,Core M,1.2,16,,512,Intel, HD Graphics 515,windows,1.2,104695,5760000
+lenovo,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,,256,Nvidia, Quadro M620M,windows,3.4,159787,2073600
+asus,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,,,128,Nvidia, GeForce GTX 1050,windows,2.5,44702,2073600
+Dell,Ultrabook,13.3,4k Ultra HD,1,1,2160,3840,Intel,Core i5,1.6,8,SSD,128,Intel, UHD Graphics 620,windows,1.2,85195,8294400
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.6,4,,500,Intel, HD Graphics 620,windows,1.9,51096,1049088
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Pentium Quad,1.1,4,,500,Intel, HD Graphics 505,windows,2.2,18328,2073600
+lenovo,Notebook,14,,0,0,768,1366,Intel,Core i5,2.5,4,,500,Intel, HD Graphics 620,windows,2,52747,1049088
+HP,Workstation,17.3,,0,0,900,1600,Intel,Core i5,2.8,8,,500,Nvidia, Quadro M1200,windows,3.1,99154,1440000
+hp,Notebook,14,,0,0,768,1366,Intel,Pentium Quad,1.6,8,,2048,Intel, HD Graphics 405,windows,,20726,1049088
+hp,Notebook,15.6,Full HD,1,0,1080,1920,AMD,A9-Series A9-9420,3,6,SSD,256,AMD, Radeon 530,windows,2,34579,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,2.3,44222,2073600
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,4,,500,Intel, HD Graphics 620,windows,2.1,36497,2073600
+mediacom,Notebook,14,Full HD,0,0,1080,1920,Intel,Atom x5-Z8350,1.4,4,,-32,Intel, HD Graphics,windows,1.4,13267,2073600
+Toshiba,Ultrabook,14,Full HD,0,1,1080,1920,Ietnl,Core i7,2.7,16,,512,Intel, HD Graphics 620,windows,1.2,99367,2073600
+Lenovo,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,32,Hybrid,256,Nvidia, GeForce GTX 1070,windows,4.6,141885,2073600
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.9,16,,512,Nvidia, GeForce GTX 1070,windows,4.1,145401,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Itenl,Core i7,2.7,8,SSD,256,AMD, Radeon R5 M430,linux,2.2,39907,2073600
+,Notebook,14,Full HD,1,0,1080,1920,Intel,Celeron Quad,1.1,10,SSD,32,Intel, HD Graphics 500,,1.5,20726,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.6,8,,500,Intel, HD Graphics 620,windows,1.9,53734,1049088
+,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i3,2.4,10,SSD,128,Intel, HD Graphics 620,,1.5,38308,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce 930MX,windows,1.9,81912,2073600
+Dell,Netbook,11.6,,0,0,,1366,Intel,Celeron Dual,1.6,4,,16,Intel, HD Graphics 400,other,1.3,15718,1049088
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,16,,128,Nvidia, GeForce GTX 980M,windows,,125155,2073600
+HP,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050,windows,3.8,79813,2073600
+Lenovo,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.6,12,,256,Intel, HD Graphics 520,windows,8.4,89137,2073600
+lenovo,Notebook,15.6,,0,1,,1366,Intel,Core i7,1.8,12,,1024,Intel, HD Graphics 620,windows,2.2,-32448,1049088
+Asus,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,128,Nvidia, GeForce GTX 1060,windows,2.7,94306,2073600
+asus,2 in 1 Convertible,15.6,,0,1,768,1366,Itenl,Core i5,2.5,8,,1024,Intel, HD Graphics 520,windows,2.2,39374,1049088
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A12-Series 9720P,3.6,12,,512,AMD, Radeon 530,windows,2.2,50563,2073600
+Dell,2 in 1 Convertible,31.6,,0,1,768,1366,Intel,Core M,1,,,128,Intel, HD Graphics 615,windows,1.4,32128,1049088
+samsung,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,128,Nvidia, GeForce GTX 1050,windows,2.5,90523,2073600
+Lenovo,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,500,Intel, HD Graphics 520,,2.8,28185,2073600
+lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.3,8,,1024,Intel, HD Graphics 520,windows,2.3,24456,1049088
+lenovo,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i7,2.7,8,,512,Intel, HD Graphics 620,windows,1.4,107892,2073600
+Lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 630,windows,1.7,78535,2073600
+Dell,2 in 1 Convertible,12.5,Full HD,0,1,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.3,88978,2073600
+Dell,Workstation,15.6,Full HD,0,1,,1920,Intel,Core i7,2.8,8,SSD,256,Nvidia, Quadro M620,windows,2.1,93933,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.8,64948,2073600
+,Notebook,15.6,,0,0,768,1366,Ietnl,Core i3,2.4,4,,500,Intel, HD Graphics 620,,2.1,35617,1049088
+Acer,Notebook,14,Full HD,0,0,1080,1920,Intel,Celeron Quad,1.1,4,,32,Intel, HD Graphics 500,windows,1.6,17529,2073600
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,40,,-128,Nvidia, GeForce GTX 970M,windows,4.1,117163,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,1024,AMD, Radeon R5 M420,linux,2.2,24775,1049088
+msi,Gaming,15.6,4k Ultra HD,0,0,2160,3840,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1060,windows,1.8,122491,8294400
+toshiba,Notebook,15.6,Full HD,1,0,,1920,Intel,Core i7,2.5,8,,-256,Intel, HD Graphics 520,windows,2.2,74539,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,6,,1024,Intel, HD Graphics 620,windows,2.4,30050,2073600
+Lenovo,2 in 1 Convertible,15.6,Full HD,1,1,1080,1920,Intel,Core i7,2.8,8,,256,Intel, HD Graphics 630,windows,2,69211,2073600
+Acer,Notebook,14,,0,0,,1366,Ietnl,Pentium Quad,1.6,4,Flash Storage,128,Intel, HD Graphics 405,windows,1.6,18595,1049088
+,Notebook,15.6,4k Ultra HD,1,0,2160,3840,Intel,Xeon E3-1535M,3.1,32,,1024,Nvidia, Quadro M2200M,,2.5,261019,8294400
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.6,16,HDD,1024,Nvidia, GeForce GTX 960<U+039C>,windows,2.6,46834,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,1024,Intel, HD Graphics 520,linux,2.2,23651,1049088
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,1024,Intel, HD Graphics 520,linux,2.3,19128,1049088
+Dell,Notebook,15.6,,0,0,768,1366,Ientl,Core i5,2.6,10,HDD,500,Intel, HD Graphics 620,linux,1.9,46300,1049088
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Ietnl,Core i7,2.8,8,,128,Nvidia, GeForce GTX 1050,windows,3,62231,2073600
+HP,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,512,Intel, HD Graphics 620,windows,1.8,74006,2073600
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,,Hybrid,256,Nvidia, GeForce GTX 1070,windows,2.9,120832,2073600
+Acer,2 in 1 Convertible,11.6,,1,1,768,1366,Intel,Celeron Quad,1.6,4,,32,Intel, HD Graphics 400,other,1.3,20193,1049088
+HP,Notebook,14,,0,0,768,1366,Intel,Core i5,2.6,8,,256,Intel, HD Graphics 620,windows,2.3,59887,1049088
+lenovo,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,SSD,256,Intel, HD Graphics 520,windows,1.7,78055,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,4,,1024,AMD, Radeon 530,windows,2.2,41345,2073600
+Fujitsu,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,2.2,42571,1049088
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,4,,500,Intel, HD Graphics 520,windows,1.9,49657,1049088
+Mediacom,Notebook,14,Full HD,0,0,1080,1920,Intel,Atom x5-Z8350,1.4,2,,32,Intel, HD Graphics,windows,,12734,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,128,Intel, HD Graphics 620,,2.2,24935,2073600
+Asus,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i5,2.5,,HDD,1024,Intel, HD Graphics 620,windows,1.5,34046,2073600
+Asus,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.7,16,SSD,512,Intel, HD Graphics 620,windows,11.1,-101232,2073600
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050 Ti,windows,2.6,78801,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,1.6,10,,256,Intel, UHD Graphics 620,windows,1.8,44169,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,HDD,1024,Nvidia, GeForce 920MX ,windows,2.2,30849,2073600
+Asus,Notebook,15.6,,0,0,,1366,Intel,Celeron Dual,1.1,8,,1024,Intel, HD Graphics 500,windows,2,21259,1049088
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,HDD,1024,Nvidia, GeForce GTX 1050,windows,2,48305,2073600
+,Ultrabook,13.3,Quad HD +,0,1,1800,3200,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,,1.2,99580,5760000
+Lenovo,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.6,2,,32,Intel, HD Graphics 400,windows,1.4,13267,1049088
+Lenovo,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.4,93635,2073600
+dell,Notebook,15.6,4k Ultra HD,0,1,2160,3840,Intel,Core i7,2.8,16,,1024,Nvidia, GeForce GTX 1050,windows,2.1,127819,8294400
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,128,Nvidia, GeForce GTX 1050M,windows,2.5,59088,2073600
+HP,Notebook,17,,0,0,900,1600,AMD,A9-Series 9420,3,8,,1024,AMD, Radeon R5,windows,2.6,27754,1440000
+Lenovo,Ultrabook,14,Full HD,1,0,1080,1920,Ietnl,Core i7,2.7,16,,512,Intel, HD Graphics 620,windows,1.1,130536,2073600
+Asus,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,,1024,Nvidia, GeForce GTX 1050 Ti,,2.5,62284,2073600
+Acer,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,500,Intel, HD Graphics 520,windows,2.4,23976,1049088
+Lenovo,Notebook,14,,0,0,768,1366,Itenl,Celeron Dual,1.6,4,,32,Intel, HD Graphics,windows,1.4,14599,1049088
+acer,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, Graphics 620,windows,1.8,48964,2073600
+Razer,Gaming,14,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,SSD,256,Nvidia, GeForce GTX 1060,windows,2,138475,2073600
+Toshiba,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,SSD,-256,Intel, HD Graphics 520,windows,1.2,64629,2073600
+Lenovo,Ultrabook,12.5,Full HD,1,0,1080,1920,Itnel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.4,84396,2073600
+Asus,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,80,SSD,512,Nvidia, GeForce GTX 1080,windows,3.8,149131,2073600
+Acer,Gaming,15.6,Full HD,0,0,,1920,Intel,Core i5,2.5,8,,1024,Nvidia, GeForce GTX 1050,linux,2.4,37776,2073600
+dell,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,1.6,8,,256,Intel, UHD Graphics 620,windows,1.2,77251,2073600
+msi,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,128,Nvidia, GeForce GTX 1050 Ti,windows,2.2,63499,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,500,Intel, HD Graphics 520,,1.9,19442,1049088
+Toshiba,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,500,Intel, HD Graphics 620,windows,2,56690,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,256,AMD, Radeon 530,,6.2,48964,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,,Hybrid,-256,AMD, Radeon 530,windows,2.2,60473,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.6,8,,128,Nvidia, GeForce GTX 960,windows,,63723,2073600
+Dell,Gaming,17.3,4k Ultra HD,1,0,2160,3840,Intel,Core i7,2.8,32,,512,Nvidia, GeForce GTX 1070,windows,4.4,167692,8294400
+Dell,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.4,8,,256,Intel, HD Graphics 520,windows,1.6,65481,2073600
+lenovo,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.1,4,,500,Intel, HD Graphics 500,windows,2.2,22324,1049088
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.3,4,HDD,500,Intel, HD Graphics 520,windows,2.2,28505,2073600
+HP,Notebook,15.6,,0,0,1080,1920,Itenl,Core i3,2,6,HDD,1024,AMD, Radeon R5 M430,windows,2,28718,2073600
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,128,Nvidia, GeForce GTX 1060,windows,2.7,79215,2073600
+Toshiba,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.1,4,,-128,Intel, HD Graphics 520,windows,2.1,26533,1049088
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,1024,AMD, Radeon 530,windows,2.1,39694,2073600
+Toshiba,Notebook,15.6,Full HD,1,0,1080,1920,Ietnl,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,2,67026,2073600
+Acer,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,10,SSD,128,Intel, HD Graphics 520,linux,2.1,21951,1049088
+Microsoft,Ultrabook,13.5,,0,1,1504,2256,Intel,Core i7,2.8,8,SSD,256,Intel, Iris Plus Graphics 640,windows,1.3,99519,3393024
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,128,AMD, Radeon R5 M430,windows,1.9,43580,2073600
+lenovo,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.3,55092,2073600
+Lenovo,Notebook,35.6,,0,0,768,1366,AMD,E-Series E2-9000,2.2,10,SSD,128,AMD, Radeon R2 Graphics,windows,2.2,18595,1049088
+HP,2 in 1 Convertible,14,Full HD,1,1,1080,1920,Intel,Core i3,2.4,4,,128,Nvidia, GeForce 940MX,windows,1.6,37243,2073600
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050,windows,2.4,68944,2073600
+asus,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.1,60473,2073600
+hp,2 in 1 Convertible,11.6,,0,1,768,1366,Intel,Celeron Dual,1.1,8,,-64,Intel, HD Graphics 500,other,1.4,26374,1049088
+LG,Ultrabook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,1.8,8,,512,Intel, HD Graphics 620,windows,1.1,122491,2073600
+acer,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,16,SSD,256,Nvidia, GeForce GTX 1050 Ti,windows,,69211,2073600
+,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,20,SSD,256,Nvidia, GeForce GTX 1050,,2.2,53168,2073600
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.1,4,,128,Intel, HD Graphics 500,windows,1.9,-22324,1049088
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,16,,128,Nvidia, GeForce GTX 1060,windows,3.2,109277,2073600
+HP,Notebook,17.3,Full HD,1,0,1080,1920,Intel,Core i3,2,,SSD,256,AMD, Radeon R5 520,windows,2.5,37243,2073600
+lenovo,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Itenl,Core i7,1.8,8,,-512,Intel, UHD Graphics 620,windows,,79867,2073600
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Ietnl,Core i7,2.9,16,,256,Nvidia, GeForce GTX 1070,windows,3.5,149917,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,500,AMD, Radeon 520,windows,1.9,32640,1049088
+dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,1024,AMD, Radeon R5 M430,windows,2.2,29073,1049088
+HP,Notebook,17.3,Full HD,1,0,1080,1920,AMD,A10-Series 9600P,2.4,6,HDD,2048,AMD, Radeon R7 M440,windows,2.7,30316,2073600
+Lenovo,Notebook,15.6,,0,0,,1366,Intel,Celeron Dual,1.6,4,,500,Intel, HD Graphics 510,windows,2.1,16943,1049088
+Acer,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,32,Intel, HD Graphics 510,other,1.5,19980,1049088
+Lenovo,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,SSD,256,Intel, HD Graphics 620,windows,1.7,37243,2073600
+hp,Workstation,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,500,Nvidia, Quadro M1200,windows,3.1,1016580,2073600
+Lenovo,2 in 1 Convertible,14,,0,1,1440,2560,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.4,137995,3686400
+toshiba,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.5,51841,2073600
+Acer,Netbook,11.6,,0,0,768,1366,Itnel,Celeron Dual,1.6,4,,32,Intel, HD Graphics,windows,1.4,14332,1049088
+Lenovo,2 in 1 Convertible,14,Full HD,0,1,1080,1920,Ietnl,Core i7,2.7,16,SSD,512,Intel, HD Graphics 620,windows,1.4,93187,2073600
+Asus,2 in 1 Convertible,12.5,Full HD,0,1,1080,1920,Intel,Core M,0.9,4,,64,Intel, HD Graphics 515,other,1.2,35644,2073600
+toshiba,Ultrabook,13.3,Full HD,0,1,1080,1920,Intel,Core i7,2.5,16,,512,Intel, HD Graphics 520,windows,1.4,100007,2073600
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,1024,Nvidia, GeForce GTX 1050,windows,2.6,43636,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A9-Series 9420,2.9,10,SSD,256,AMD, Radeon 530,windows,2.2,21259,2073600
+Lenovo,Notebook,15.6,,0,0,768,1366,AMD,A12-Series 9720P,3.6,8,,1024,AMD, Radeon R7,windows,2.2,22857,1049088
+Lenovo,Notebook,15.6,Full HD,0,0,,1920,Itenl,Core i5,2.5,4,,1024,Intel, HD Graphics 620,windows,2.1,33111,2073600
+Lenovo,Notebook,15.6,,0,0,,1366,Itenl,Core i3,2,4,,500,Intel, HD Graphics 520,,1.9,23976,1049088
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,,42358,2073600
+Acer,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i5,1.6,1,,256,Intel, UHD Graphics 620,windows,1.6,53227,2073600
+lenovo,Workstation,15.6,Full HD,0,0,1080,1920,Ientl,Core i7,2.5,16,,512,Nvidia, Quadro M520M,windows,2.2,98834,2073600
+Lenovo,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.8,63456,2073600
+HP,Notebook,17.3,Full HD,1,0,1080,1920,AMD,A10-Series 9620P,2.5,6,,2048,AMD, Radeon 530,windows,2.7,34899,2073600
+lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,128,Nvidia, GeForce GTX 1050 Ti,windows,2.5,66547,2073600
+Dell,Notebook,14,Full HD,0,0,,1920,Intel,Core i5,2.8,8,SSD,256,Nvidia, GeForce 930MX,linux,1.6,58022,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,1024,Intel, HD Graphics 620,linux,2,38681,2073600
+Asus,Notebook,14,Full HD,0,0,1080,1920,Intel,Celeron Dual,1.1,4,Flash Storage,32,Intel, HD Graphics 500,windows,1.5,15877,2073600
+dell,Notebook,15.6,Full HD,0,0,,1920,Itnel,Core i5,2.6,16,,512,Intel, HD Graphics 620,windows,1.9,76012,2073600
+Lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,256,Nvidia, GeForce 920MX,windows,1.9,45665,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.6,8,SSD,256,Intel, HD Graphics 620,windows,1.9,62817,2073600
+lenovo,Notebook,15.6,,0,0,768,1366,AMD,A6-Series 7310,2,4,,500,AMD, Radeon R4,windows,,15877,1049088
+Mediacom,Notebook,14,Full HD,1,0,1200,1920,Intel,Atom Z8350,1.9,4,,32,Intel, HD Graphics 400,windows,1.4,14119,2304000
+HP,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,Nvidia, GeForce 930MX,windows,2.6,63936,2073600
+lenovo,Ultrabook,14,Quad HD +,1,0,1440,2560,Intel,Core i7,2.5,64,,512,Intel, HD Graphics 520,windows,1.2,89864,3686400
+HP,2 in 1 Convertible,13.3,,1,1,768,1366,Itnel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.6,44574,1049088
+lenovo,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.3,79867,2073600
+dell,Gaming,17.3,4k Ultra HD,0,0,2160,3840,Intel,Core i7,2.8,32,,1024,Nvidia, GeForce GTX 1070,windows,4.4,194973,8294400
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,128,Nvidia, GeForce GTX 1050 Ti,windows,2.7,71847,2073600
+lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,HDD,1024,Intel, HD Graphics 620,,1.9,26102,1049088
+Dell,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Itnel,Core i3,2.4,,HDD,1024,Intel, HD Graphics 620,windows,1.7,34579,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Ientl,Core i5,2.5,8,,1024,AMD, Radeon R7 M445,linux,2.3,31410,1049088
+HP,Notebook,15.6,Full HD,0,0,,1920,AMD,A9-Series 9420,3,4,,1024,AMD, Radeon 520,windows,2.1,26054,2073600
+Acer,Gaming,17.3,Full HD,1,0,,1920,Intel,Core i7,2.6,,,128,Nvidia, GeForce GTX 1060,windows,4.2,-103097,2073600
+dell,Notebook,15.6,,0,0,768,1366,Itnel,Core i5,2.5,12,,1024,Intel, HD Graphics 620,windows,2.3,34579,1049088
+hp,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A9-Series A9-9420,3,6,,128,AMD, Radeon 520,windows,2.1,34632,2073600
+Acer,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,500,Intel, HD Graphics 620,windows,2.4,29784,1049088
+Lenovo,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.4,51149,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,4,HDD,1024,Intel, HD Graphics 620,windows,1.9,41505,2073600
+HP,Workstation,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, Quadro M2200,windows,2.6,128884,2073600
+Dell,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i5,1.6,,,1024,Intel, UHD Graphics 620,windows,1.6,35112,2073600
+msi,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,,Hybrid,256,Nvidia, GeForce GTX 1060,windows,1.8,111594,2073600
+acer,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,HDD,500,Intel, HD Graphics 520,windows,2.4,21887,1049088
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,Hybrid,128,Nvidia, GeForce 940MX,windows,2,64309,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,8,,256,Intel, HD Graphics 520,windows,2,35431,1049088
+Toshiba,Notebook,14,Full HD,1,1,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.3,81785,2073600
+lenovo,2 in 1 Convertible,14,Full HD,0,1,1080,1920,Intel,Core i5,2.5,20,,256,Intel, HD Graphics 620,windows,1.7,-53227,2073600
+Lenovo,Workstation,15.6,4k Ultra HD,1,0,2160,3840,Intel,Core i7,2.8,40,,1024,Nvidia, Quadro M520M,windows,2.5,175771,8294400
+Acer,Notebook,14,,0,0,768,1366,Itenl,Celeron Dual,1.6,2,,32,Intel, HD Graphics 400,other,1.7,17582,1049088
+samsung,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,16,,256,Intel, HD Graphics 620,windows,0.8,87859,2073600
+Dell,Notebook,14,,0,0,768,1366,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.6,60031,1049088
+hp,Workstation,17.3,Full HD,1,0,1080,1920,Intel,Xeon E3-1535M,2.9,16,,256,Nvidia, Quadro M2000M,windows,3,233846,2073600
+,Netbook,11.6,,0,1,768,1366,Intel,Celeron Dual,1.6,4,SSD,128,Intel, HD Graphics 400,,1.4,25308,1049088
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.4,8,,256,Intel, HD Graphics 520,windows,1.8,101232,2073600
+Asus,Notebook,15.6,,0,0,768,1366,Itnel,Core i5,2.3,4,HDD,1024,Nvidia, GeForce GTX 950M,,2.5,30849,1049088
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.7,4,,256,Intel, HD Graphics 620,windows,2.4,45283,1049088
+lenovo,2 in 1 Convertible,13.3,Quad HD +,1,1,1800,3200,Intel,Core i5,1.8,8,SSD,256,Intel, HD Graphics 540,windows,1.3,63883,5760000
+HP,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,128,Nvidia, GeForce GTX 1050,windows,2.2,58555,2073600
+hp,Workstation,15.6,Full HD,0,0,1080,1920,Ietnl,Core i7,2.6,8,,256,Nvidia, Quadro M1000M,windows,2.6,83170,2073600
+dell,Gaming,15.6,4k Ultra HD,1,0,2160,3840,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1070,windows,4.4,152860,8294400
+,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,256,Intel, HD Graphics 620,,2.1,31915,1049088
+lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,128,Nvidia, GeForce GTX 1050,windows,2.5,55837,2073600
+Dell,Ultrabook,12.5,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Intel, HD Graphics 620,windows,1.2,99048,2073600
+Google,Ultrabook,12.3,,0,1,1600,2400,Intel,Core i5,1.2,20,,-256,Intel, HD Graphics 615,other,1.1,83064,3840000
+Asus,Ultrabook,13.3,Quad HD +,1,0,1800,3200,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.2,60153,5760000
+dell,Notebook,13.3,,0,0,768,1366,Intel,Core i3,2,,,500,Intel, HD Graphics 520,windows,1.7,45235,1049088
+Acer,Notebook,13.3,,0,0,768,1366,Intel,Core i5,2.3,4,,-128,Intel, HD Graphics 520,windows,1.6,34898,1049088
+asus,Notebook,17.3,,0,0,768,1366,Intel,Pentium Quad,1.1,,,1024,Nvidia, GeForce 920MX,windows,2.8,25060,1049088
+Dell,Gaming,15.6,4k Ultra HD,1,1,,3840,Intel,Core i7,2.6,16,,128,Nvidia, GeForce GTX 960M,windows,2.7,58555,8294400
+samsung,Ultrabook,13.3,Full HD,0,1,1080,1920,Intel,Core i7,2.7,8,SSD,256,Intel, HD Graphics 620,windows,1.3,85195,2073600
+,Notebook,15.6,,0,0,,1366,Intel,Pentium Quad,1.1,4,,1024,Intel, HD Graphics 505,,2.1,15877,1049088
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Ietnl,Core i7,2.7,16,,0,AMD, Radeon R7 M445,windows,2.3,62938,2073600
+Samsung,2 in 1 Convertible,15,Full HD,0,1,1080,1920,Intel,Core i7,2.7,16,,256,AMD, Radeon 540,windows,1.7,95851,2073600
+Toshiba,Notebook,14,,1,0,768,1366,Intel,Core i5,2.3,4,,128,Intel, HD Graphics 520,windows,1.8,54346,1049088
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,1024,Nvidia, GeForce GTX 1050,windows,2.6,-58555,2073600
+,2 in 1 Convertible,15.6,Full HD,0,1,1080,1920,Ientl,Core i7,2.7,30,,2048,Nvidia, GeForce 940MX,,2.3,44702,2073600
+Lenovo,Notebook,15.6,4k Ultra HD,0,0,2160,3840,Intel,Core i7,2.7,16,,512,Nvidia, Quadro M2000M,windows,2.5,126274,8294400
+Acer,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i3,2.4,4,,128,Intel, HD Graphics 620,windows,1.8,33886,2073600
+,Gaming,14,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,512,Nvidia, GeForce GTX 1060,,2,154459,2073600
+asus,Notebook,15.6,,0,0,1080,1920,Intel,Pentium Dual,1.1,8,,128,Intel, HD Graphics 505,windows,,31004,2073600
+Dell,Gaming,17.3,Full HD,1,0,1080,1920,Ietnl,Core i7,2.8,80,Hybrid,1024,Nvidia, GeForce GTX 1070M,windows,4.4,191211,2073600
+Asus,Gaming,17.3,Full HD,1,0,1080,1920,Ientl,Core i7,2.6,16,,256,Nvidia, GeForce GTX 1070,windows,4.3,125208,2073600
+Toshiba,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.6,16,,512,Nvidia, GeForce 930M,windows,,93986,2073600
+lenovo,Notebook,15.6,,0,0,768,1366,Intel,Celeron Quad,1.6,8,,1024,Intel, HD Graphics 405,,2.2,17529,1049088
+Lenovo,Ultrabook,14,Full HD,0,0,1080,1920,Itnel,Core i7,2.7,16,SSD,512,Intel, HD Graphics 620,windows,1.7,122491,2073600
+msi,Gaming,14,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,Hybrid,256,Nvidia, GeForce GTX 1060,windows,1.6,100752,2073600
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Itenl,Core i5,2.5,8,,128,Nvidia, GeForce GTX 1050,windows,2.2,58022,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,,1920,Itenl,Core i7,2.8,4,,1024,Nvidia, GeForce GTX 1050,windows,2.4,53227,2073600
+acer,Gaming,17.3,Full HD,1,0,1080,1920,Inetl,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1060,windows,4.2,122491,2073600
+dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Nvidia, GeForce GTX 1050,windows,2.6,524810,2073600
+Asus,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,128,Nvidia, GeForce GTX1060,windows,2.2,71342,2073600
+Vero,Notebook,14,,0,0,1080,1920,Intel,Celeron Dual,1.1,4,Flash Storage,32,Intel, HD Graphics 500,windows,1.2,10811,2073600
+Lenovo,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Ietnl,Core i7,2.7,8,,512,Intel, HD Graphics 620,windows,1.4,104962,2073600
+Lenovo,2 in 1 Convertible,15.6,Full HD,0,1,1080,1920,Intel,Core i5,2.5,8,,256,AMD, Radeon R7 M460,windows,2.1,51096,2073600
+Apple,Ultrabook,12,,1,0,,2304,Ietnl,Core M,1.2,,Flash Storage,512,Intel, HD Graphics 5300,macos,,62071,3317760
+Lenovo,2 in 1 Convertible,14,,1,1,1440,2560,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.4,-124142,3686400
+,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.1,4,,32,Intel, HD Graphics 500,,1.6,15931,1049088
+dell,Notebook,15.6,,0,0,,1366,Itenl,Core i5,2.5,,,128,Intel, HD Graphics 620,windows,2,43157,1049088
+lenovo,2 in 1 Convertible,13.9,Full HD,1,1,1080,1920,Ientl,Core i7,2.7,8,SSD,256,Intel, HD Graphics 620,windows,1.4,71875,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,8,SSD,256,AMD, Radeon R5 M420X,windows,2,39374,2073600
+HP,Workstation,15.6,Full HD,0,0,1080,1920,Inetl,Core i7,2.8,8,,256,Nvidia, Quadro M2200,windows,3.1,110018,2073600
+Asus,Notebook,15.6,Full HD,0,0,,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,2.4,58555,2073600
+Dell,Ultrabook,13.3,Full HD,0,0,,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.3,79867,2073600
+Dell,Notebook,15.6,4k Ultra HD,0,1,2160,3840,Intel,Core i5,2.5,8,,256,Nvidia, GeForce GTX 1050,windows,2.1,93187,8294400
+dell,Netbook,11.6,,0,0,768,1366,Intel,Pentium Quad,1.1,4,,128,Intel, HD Graphics 505,windows,1.6,39640,1049088
+HP,Netbook,12.5,,0,0,,1366,Intel,Core i5,2.6,8,,256,Intel, HD Graphics 620,windows,1.3,74006,1049088
+Toshiba,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,4,,500,Intel, HD Graphics 520,windows,2.1,41558,1049088
+HP,Notebook,15.6,,0,0,768,1366,AMD,A12-Series 9700P,2.5,8,HDD,2048,AMD, Radeon R7 Graphics,windows,2,33513,1049088
+,Gaming,15.6,4k Ultra HD,0,0,2160,3840,Ientl,Core i7,2.8,16,,-512,Nvidia, GeForce GTX 1050 Ti,,2.6,89457,8294400
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,1024,Nvidia, GeForce 920M,windows,2.4,32448,2073600
+hp,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.8,12,,1024,AMD, Radeon RX 580,windows,3.7,93187,2073600
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,512,Nvidia, GeForce GTX 1070,windows,2.9,128671,2073600
+Samsung,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,0.8,79867,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,1024,Nvidia, GeForce GT 940MX,windows,2,51202,2073600
+Dell,Notebook,15.6,Full HD,0,0,,1920,Intel,Core i5,2.5,8,SSD,256,AMD, Radeon R5 M420,windows,2.2,42081,2073600
+Lenovo,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.3,99048,2073600
+razer,Ultrabook,12.5,4k Ultra HD,1,1,2160,3840,Intel,Core i7,2.5,16,,512,Intel, HD Graphics 620,windows,1.3,95851,8294400
+HP,Netbook,11.6,,0,0,768,1366,Ietnl,Celeron Dual,1.6,4,Flash Storage,16,Intel, HD Graphics 400,other,,20513,1049088
+Dell,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.8,,,128,Nvidia, GeForce GTX 1060,windows,4.4,133467,2073600
+dell,Notebook,14,,0,0,768,1366,Intel,Core i5,2.3,4,HDD,500,Intel, HD Graphics 520,windows,1.8,40226,1049088
+Lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,500,Intel, HD Graphics 520,windows,2.1,26102,1049088
+Toshiba,Ultrabook,14,,0,0,768,1366,Intel,Core i5,2.5,4,,128,Intel, HD Graphics 620,windows,1.3,58075,1049088
+lenovo,Ultrabook,14,Full HD,1,0,,1920,Intel,Core i7,2.7,8,,512,Intel, HD Graphics 620,windows,1.1,133147,2073600
+msi,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,-256,Nvidia, GeForce GTX 1050,windows,2.4,63883,2073600
+Lenovo,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.1,99900,2073600
+Toshiba,Notebook,14,,0,0,768,1366,Intel,Pentium Dual,2.1,4,,128,Intel, HD Graphics 510,windows,1.8,26587,1049088
+Asus,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.1,72354,2073600
+dell,Notebook,14,,0,0,768,1366,Intel,Core i3,2,4,,500,Intel, HD Graphics 520,windows,1.8,31169,1049088
+acer,Netbook,11.6,,1,0,768,1366,Intel,Celeron Dual,1.6,4,Flash Storage,32,Intel, HD Graphics 400,other,1.4,18914,1049088
+Acer,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i3,2.4,8,,128,Intel, HD Graphics 620,windows,1.5,32980,2073600
+Razer,Gaming,17.3,4k Ultra HD,0,1,2160,3840,Intel,Core i7,2.9,32,,512,Nvidia, GeForce GTX 1080,windows,3.5,292987,8294400
+Lenovo,Ultrabook,14,Quad HD +,1,0,,2560,Intel,Core i7,2.6,16,,512,Intel, HD Graphics 520,windows,1.1,111835,3686400
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,HDD,1024,Nvidia, GeForce 920,linux,2.1,27652,2073600
+,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.3,,SSD,256,Intel, HD Graphics 520,,,63190,2073600
+lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.6,20,,256,Intel, HD Graphics 620,windows,1.3,87912,2073600
+dell,Gaming,15.6,Full HD,0,0,1080,1920,Inetl,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1070,windows,3.2,147832,2073600
+asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1070,windows,2.9,128884,2073600
+toshiba,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.4,4,,500,Intel, HD Graphics 620,windows,,35644,1049088
+Lenovo,Notebook,14,,0,0,768,1366,Intel,Celeron Quad,1.6,4,Flash Storage,16,Intel, HD Graphics 400,other,1.5,17316,1049088
+,Notebook,15.6,Full HD,0,0,,1920,Intel,Core i5,2.5,8,,128,Intel, HD Graphics 620,,2.3,31435,2073600
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.6,16,,512,Nvidia, GeForce GTX 1060,windows,2.7,95851,2073600
+dell,Gaming,17.3,Full HD,1,0,1080,1920,Itnel,Core i7,2.8,32,,512,Nvidia, GeForce GTX 1070,windows,4.4,163724,2073600
+hp,Notebook,17.3,,0,0,900,1600,Intel,Core i5,2.5,8,,1024,Nvidia, GeForce 930MX,windows,2.6,48485,1440000
+Dell,Notebook,15.6,,0,0,,1366,Intel,Core i5,2.5,8,,128,Intel, HD Graphics 620,windows,2.2,38041,1049088
+HP,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.5,,,512,Intel, HD Graphics 520,windows,1.5,99634,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,4,,256,AMD, Radeon R5 M420,,2.2,39374,2073600
+HP,2 in 1 Convertible,11.6,,0,1,768,1366,Intel,Celeron Dual,1.1,4,,32,Intel, HD Graphics 500,other,1.4,32767,1049088
+,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,2.3,8,,512,Nvidia, GeForce 940M,,1.5,54665,2073600
+HP,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.3,121319,2073600
+hp,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.5,8,,512,Intel, HD Graphics 520,windows,1.5,78215,2073600
+HP,Notebook,15.6,,0,0,768,1366,Ietnl,Celeron Dual,1.6,4,SSD,128,Intel, HD Graphics 400,,1.9,-15931,1049088
+Asus,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,Hybrid,128,Nvidia, GeForce GTX 1060,windows,2.1,101179,2073600
+Dell,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,,,1024,AMD, Radeon R7 M445,linux,2.8,46087,2073600
+lenovo,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,SSD,256,Nvidia, GeForce GT 940MX,windows,2,101392,2073600
+Asus,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,,256,Nvidia, GeForce GTX 930MX,windows,,-41931,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,SSD,128,Intel, HD Graphics 620,windows,1.9,50350,2073600
+Asus,Notebook,15.6,,0,0,768,1366,Inetl,Pentium Quad,1.1,4,,1024,Intel, HD Graphics 505,windows,2,23923,1049088
+HP,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i7,2.8,8,SSD,256,Intel, HD Graphics 620,windows,1.3,136344,2073600
+Dell,Notebook,13.3,Full HD,0,1,,1920,Intel,Core i5,2.3,8,,1024,Intel, HD Graphics 520,windows,1.6,-34579,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,1024,Intel, HD Graphics 520,,2.2,24988,2073600
+Lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,1024,Intel, HD Graphics 620,windows,2.3,45323,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.6,8,,256,AMD, Radeon R7 M465,windows,1.8,71875,2073600
+Toshiba,Notebook,13.3,Full HD,0,0,,1920,Intel,Core i5,2.5,4,SSD,-128,Intel, HD Graphics 620,windows,1.1,68465,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,,1920,Itenl,Core i5,2.5,8,,1024,Nvidia, GeForce GTX 1050,,2.5,54186,2073600
+Dell,Ultrabook,13.3,Quad HD +,0,1,1800,3200,Intel,Core i7,2.5,16,,512,Intel, Iris Plus Graphics 640,windows,1.3,119347,5760000
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.3,4,HDD,500,Intel, HD Graphics 520,windows,2.1,48485,2073600
+,Ultrabook,13.3,,0,0,768,1366,Intel,Core i5,2.3,8,SSD,256,Intel, HD Graphics 520,,1.2,58342,1049088
+Lenovo,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.4,103896,2073600
+Acer,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.6,48059,2073600
+Dell,Workstation,15.6,Full HD,0,0,,1920,Intel,Core i7,2.8,8,HDD,1024,Nvidia, Quadro M620,windows,2.2,94732,2073600
+Lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,500,Intel, HD Graphics 620,windows,2.4,56210,1049088
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,1024,AMD, Radeon R5 M430,,2.2,25521,2073600
+,Notebook,15.6,Full HD,1,0,1080,1920,Ietnl,Core i7,2.7,8,,256,Intel, HD Graphics 620,,2,73953,2073600
+Lenovo,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i3,2.4,4,,180,Intel, HD Graphics 620,windows,1.4,39161,2073600
+Samsung,Ultrabook,15,Full HD,0,0,1080,1920,Ientl,Core i7,2.7,16,,256,Nvidia, GeForce 940MX,windows,1.2,98515,2073600
+Dell,Ultrabook,12.5,Full HD,0,0,,1920,Intel,Core i7,2.8,8,,256,Intel, HD Graphics 620,windows,1.6,90043,2073600
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Pentium Quad,1.1,4,,1024,Intel, HD Graphics 505,linux,2,21258,1049088
+Xiaomi,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,2.3,8,,256,Nvidia, GeForce 940MX,windows,1.3,49817,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,128,Nvidia, GeForce 940MX,windows,2.2,48618,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,256,Intel, HD Graphics 620,windows,2,44702,2073600
+HP,2 in 1 Convertible,13.3,Full HD,0,1,,1920,Intel,Core i5,2.5,4,SSD,256,Intel, HD Graphics 620,windows,1.3,90576,2073600
+HP,2 in 1 Convertible,15.6,,0,1,768,1366,Intel,Core i5,2.5,4,,500,Intel, HD Graphics 620,windows,2.3,36486,1049088
+asus,Notebook,14.1,,0,0,768,1366,Itnel,Celeron Dual,1.1,4,,32,Intel, HD Graphics 500,windows,,18541,1049088
+,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.5,8,,1024,Nvidia, GeForce 940MX,,2.2,35644,2073600
+dell,Notebook,15.6,,0,0,,1366,Intel,Pentium Quad,1.6,4,HDD,500,Intel, HD Graphics,windows,2.2,19660,1049088
+hp,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i5,2.5,4,,256,Intel, HD Graphics 620,windows,1.3,95851,2073600
+dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,1024,AMD, Radeon R5 M420X,linux,,24280,1049088
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,12,Hybrid,128,Nvidia, GeForce GTX 1050,windows,2.2,72988,2073600
+Acer,Netbook,11.6,,1,0,768,1366,Intel,Celeron Dual,1.6,,,32,Intel, HD Graphics 400,other,1.3,15824,1049088
+Lenovo,Notebook,17.3,,0,0,900,1600,AMD,A4-Series 7210,2.2,4,HDD,500,AMD, Radeon R3,windows,2.8,20193,1440000
+HP,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,SSD,128,Intel, HD Graphics 620,windows,2,67399,2073600
+HP,2 in 1 Convertible,13.3,Quad HD +,0,1,1800,3200,Intel,Core i7,2.7,40,,256,Intel, HD Graphics 620,windows,1.4,74539,5760000
+samsung,Ultrabook,15,Full HD,0,0,,1920,Inetl,Core i7,2.7,8,SSD,256,Intel, HD Graphics 620,windows,1.2,90523,2073600
+Lenovo,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,-256,Intel, HD Graphics 620,windows,1.3,95851,2073600
+MSI,Gaming,17.3,4k Ultra HD,1,0,2160,3840,Intel,Core i7,2.6,16,,-512,Nvidia, GeForce GTX 1060,windows,2.4,141139,8294400
+Toshiba,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.1,78588,2073600
+dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,1024,Nvidia, GeForce GTX 1050Ti,linux,2.6,49497,2073600
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,-1024,Nvidia, GeForce 930MX,windows,,47952,2073600
+Dell,Notebook,15.6,,0,0,,1366,Intel,Core i3,2,4,,1024,AMD, Radeon R5 M420X,windows,2.2,32714,1049088
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.6,20,,-500,Intel, HD Graphics 620,windows,1.9,49817,2073600
+Dell,2 in 1 Convertible,13.3,Quad HD +,0,1,1800,3200,Intel,Core i7,1.3,8,,512,Intel, HD Graphics 615,windows,1.2,107258,5760000
+Asus,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,32,,256,Nvidia, GeForce GTX 980M,windows,3.6,68145,2073600
+Dell,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i7,1.3,16,SSD,256,Intel, HD Graphics 615,windows,1.2,87859,2073600
+,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,Flash Storage,256,Intel, HD Graphics 620,,1.1,109171,2073600
+Lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,512,Intel, HD Graphics 620,windows,2,104588,2073600
+,Ultrabook,15.6,Full HD,1,1,1080,1920,Intel,Core i7,2.7,16,,512,Intel, HD Graphics 620,,1.1,111835,2073600
+HP,Netbook,12.5,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,SSD,512,Intel, HD Graphics 620,windows,1.3,79014,2073600
+acer,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Celeron Dual,1.5,4,Flash Storage,16,Intel, HD Graphics,other,2.2,19128,2073600
+lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Ietnl,Core i5,2.3,8,,128,Nvidia, GeForce GTX 960M,windows,2.6,42038,2073600
+LG,Ultrabook,14,Full HD,1,1,1080,1920,Intel,Core i7,2.7,8,,512,Intel, HD Graphics 620,windows,1,101179,2073600
+dell,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.8,20,,256,Intel, HD Graphics 620,windows,1.6,64202,2073600
+,Ultrabook,12.5,4k Ultra HD,0,1,2160,3840,Intel,Core M,1.2,,SSD,240,Intel, HD Graphics 515,,1.1,165168,8294400
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,6,,256,Nvidia, GeForce 940MX,windows,2.2,42038,2073600
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,Nvidia, GeForce 930MX,windows,,54292,2073600
+acer,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2.4,,HDD,1024,Intel, HD Graphics 620,windows,2.4,26587,2073600
+Lenovo,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,128,Intel, HD Graphics 620,windows,1.4,46940,2073600
+,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,20,,256,Intel, HD Graphics 620,,1.5,51149,2073600
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,Hybrid,256,Nvidia, GeForce GTX 1050 Ti,windows,2.7,85195,2073600
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,-128,Nvidia, GeForce GTX 1050 Ti,windows,,71875,2073600
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Itenl,Core i5,2.5,8,,128,Nvidia, GeForce GTX 1050,windows,2.2,59669,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,1024,AMD, Radeon R5 M420,windows,2.2,36496,1049088
+HP,Ultrabook,15.6,Full HD,0,0,1080,1920,Ientl,Core i7,2.5,8,,-256,AMD, Radeon R7 M365X,windows,1.8,69104,2073600
+Lenovo,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i5,2.5,,,512,Intel, HD Graphics 620,windows,,97236,2073600
+dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,4,,-500,Intel, HD Graphics 520,windows,2,38889,1049088
+lenovo,Ultrabook,12.5,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,SSD,256,Intel, HD Graphics 620,windows,1.4,87912,2073600
+HP,Notebook,15.6,Full HD,0,0,,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,2.3,62071,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,,HDD,1024,Intel, HD Graphics 620,windows,2.2,37725,1049088
+hp,Notebook,14,,0,0,768,1366,Intel,Core i5,2.3,4,HDD,500,Intel, HD Graphics 520,windows,2,61219,1049088
+Lenovo,Notebook,15.6,,0,0,768,1366,Intel,Pentium Quad,1.1,4,,1024,Intel, HD Graphics 505,windows,,16464,1049088
+HP,Ultrabook,12.5,Full HD,0,0,1080,1920,Intel,Core i5,2.3,,,500,Intel, HD Graphics 520,windows,,84129,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,1024,Intel, HD Graphics 400,,1.9,15393,1049088
+Lenovo,2 in 1 Convertible,13.3,Quad HD +,1,1,1800,3200,Intel,Core i7,2.2,16,,1024,Intel, Iris Graphics 540,windows,1.3,95851,5760000
+toshiba,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.3,4,,128,Intel, HD Graphics 520,windows,,58874,2073600
+HP,Netbook,12.5,Full HD,0,0,1080,1920,Inetl,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.3,88924,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,HDD,1024,Intel, HD Graphics 520,windows,2.2,29762,1049088
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Ientl,Core i7,2.8,8,,128,Nvidia, GeForce GTX 1050,windows,2.2,63883,2073600
+Dell,Gaming,17.3,,0,0,1440,2560,Ientl,Core i7,2.7,16,,512,Nvidia, GeForce GTX 1080,windows,4.4,146946,3686400
+HP,Gaming,17.3,Full HD,1,0,1080,1920,Itnel,Core i5,2.3,20,Hybrid,128,Nvidia, GeForce GTX 965M,windows,2.8,74539,2073600
+,Notebook,17.3,,0,0,900,1600,Intel,Pentium Quad,1.6,4,,1024,Nvidia, GeForce 920MX,,,28238,1440000
+,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,500,Intel, HD Graphics 620,,2.2,32980,1049088
+Toshiba,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,,,256,Intel, HD Graphics 520,windows,2.2,59620,1049088
+Lenovo,2 in 1 Convertible,11.3,Full HD,1,1,1080,1920,Intel,Core M,1.2,8,,256,Intel, HD Graphics 515,windows,1.1,-69211,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,AMD,FX 8800P,2.1,16,,512,AMD, Radeon R9 M385,windows,2.5,53227,2073600
+dell,Ultrabook,12.5,Full HD,0,1,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics,windows,1.4,78439,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,1024,Nvidia, GeForce 920MX,,2.2,36497,2073600
+Dell,Notebook,17.3,,0,0,900,1600,Ietnl,Core i3,2,4,,1024,AMD, Radeon R7 M445,windows,2.4,35112,1440000
+acer,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,32,Intel, HD Graphics 400,other,1.7,18595,1049088
+HP,Workstation,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,,8,Nvidia, Quadro M1000M,windows,2,119827,2073600
+dell,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,256,Intel, HD Graphics 620,windows,1.4,94572,2073600
+Toshiba,Notebook,13.3,Full HD,0,0,1080,1920,Inetl,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.2,77789,2073600
+Asus,2 in 1 Convertible,12.5,Full HD,0,0,1080,1920,Intel,Core M,1.2,8,Flash Storage,64,Intel, HD Graphics 515,other,1.2,61752,2073600
+Lenovo,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.6,8,,256,Intel, HD Graphics 520,windows,1.7,79333,2073600
+dell,Gaming,17.3,4k Ultra HD,1,0,2160,3840,Intel,Core i7,2.8,16,,512,Nvidia, GeForce GTX 1070,windows,4.4,168045,8294400
+dell,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i5,1.2,8,,256,Intel, HD Graphics 615,windows,1.2,101179,2073600
+HP,2 in 1 Convertible,11.6,,0,1,768,1366,Intel,Pentium Quad,1.1,4,,256,Intel, HD Graphics 505,windows,1.5,41292,1049088
+Dell,Ultrabook,13.3,Quad HD +,0,0,1800,3200,Intel,Core i7,2.5,8,,256,Intel, HD Graphics 520,windows,1.3,67559,5760000
+Acer,2 in 1 Convertible,11.6,,1,1,768,1366,Intel,Celeron Dual,1.6,4,Flash Storage,32,Intel, HD Graphics 400,other,1.3,20726,1049088
+toshiba,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.4,8,,256,Intel, HD Graphics 520,windows,1.2,81785,2073600
+Lenovo,Ultrabook,12.5,Full HD,1,0,,1920,Intel,Core i5,2.6,8,SSD,256,Intel, HD Graphics 620,windows,1.4,93773,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,12,,128,Nvidia, GeForce GTX 950M,,2.4,53760,2073600
+Toshiba,Ultrabook,12.5,Full HD,0,1,1080,1920,Intel,Core i7,2.7,8,SSD,512,Intel, HD Graphics 620,windows,1.1,95371,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,,,1024,Nvidia, GeForce 930MX,windows,2,45102,1049088
+dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,HDD,1024,AMD, Radeon R5 M430,linux,2.3,24808,1049088
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,,,500,Intel, HD Graphics 620,windows,1.9,43956,1049088
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2.4,4,HDD,500,Intel, HD Graphics 620,windows,2,36497,2073600
+Dell,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.8,32,,256,Nvidia, GeForce GTX 1070,windows,4.4,167779,2073600
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,6,,256,Nvidia, GeForce 920MX,windows,2.4,37030,2073600
+dell,2 in 1 Convertible,13.3,Quad HD +,0,1,1800,3200,Ientl,Core i7,1.3,16,,-512,Intel, HD Graphics 615,windows,1.2,101179,5760000
+Dell,Ultrabook,14,,0,1,1440,2560,Itnel,Core i7,2.6,8,,256,Intel, HD Graphics 520,windows,1.5,104588,3686400
+dell,Gaming,17.3,Full HD,0,0,1080,1920,Ientl,Core i7,2.6,,Hybrid,256,Nvidia, GeForce GTX 1070,windows,4.4,149184,2073600
+,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,,2,62870,2073600
+,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1060,,2.7,109219,2073600
+HP,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.7,8,Hybrid,128,Nvidia, GeForce 930MX,windows,2,52161,2073600
+lenovo,Notebook,14,,0,0,768,1366,Intel,Core i5,2.3,4,,508,Intel, HD Graphics 520,windows,1.7,53387,1049088
+asus,2 in 1 Convertible,15.6,4k Ultra HD,0,1,2160,3840,Intel,Core i7,2.7,16,Hybrid,512,Nvidia, GeForce GTX 950M,windows,2.3,95851,8294400
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050 Ti,windows,3,93187,2073600
+dell,2 in 1 Convertible,15.6,Full HD,1,1,1080,1920,Ietnl,Core i7,2.7,12,,512,Intel, HD Graphics 620,windows,2.2,69211,2073600
+Toshiba,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.3,4,SSD,128,Intel, HD Graphics 520,windows,1.2,63670,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A12-Series 9720P,3.6,6,,-256,AMD, Radeon 530,windows,2.2,29251,2073600
+Fujitsu,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,4,SSD,-256,Intel, HD Graphics 520,windows,2.3,34579,1049088
+Toshiba,Notebook,14,,0,0,768,1366,Intel,Core i5,2.3,4,HDD,500,Intel, HD Graphics 520,windows,1.8,48751,1049088
+,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,,500,AMD, Radeon R5 M430,,2.3,31915,1049088
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,1024,Intel, HD Graphics 620,windows,2,42944,2073600
+lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,,-128,Nvidia, GeForce GTX 1060,windows,,63350,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.7,8,HDD,1024,AMD, Radeon R7 M445,windows,2.4,39907,1049088
+,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,128,Intel, HD Graphics 620 ,,1.6,59620,2073600
+HP,Netbook,12.5,Full HD,0,0,1080,1920,Itnel,Core M,1.2,8,,512,Intel, HD Graphics 515,windows,1,101658,2073600
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Ientl,Core i3,2,4,,128,AMD, Radeon 520,windows,2.1,26587,2073600
+Lenovo,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.1,4,SSD,128,Intel, HD Graphics 500,,1.9,14419,1049088
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,2.3,71875,2073600
+Asus,Notebook,13.3,Quad HD +,0,0,1800,3200,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.4,61272,5760000
+,Ultrabook,13.3,Full HD,1,1,1080,1920,Intel,Core i7,2.7,8,,-256,Intel, HD Graphics 620,,1.1,-71875,2073600
+Acer,Notebook,15.6,,0,0,768,1366,Inetl,Pentium Quad,1.1,4,,500,Intel, HD Graphics 505,windows,2.4,20246,1049088
+,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,-256,Nvidia, GeForce GTX 1050 Ti,,,95851,2073600
+hp,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,512,Intel, HD Graphics 620,windows,1.5,111302,2073600
+acer,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,,128,Nvidia, GeForce GTX 1050,windows,2.7,67133,2073600
+,Notebook,13.3,Full HD,1,0,1080,1920,Inetl,Core i5,2.5,8,,256,Intel, HD Graphics 620,,1.3,63350,2073600
+dell,Notebook,15.6,,0,0,768,1366,Inetl,Core i3,2.4,4,,128,Intel, HD Graphics 620,windows,2.2,29144,1049088
+hp,Notebook,14,,0,0,768,1366,Intel,Core i5,2.5,4,HDD,500,Intel, HD Graphics 620,windows,1.6,41505,1049088
+Toshiba,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.3,4,,128,Intel, HD Graphics 520,windows,1.2,63670,2073600
+HP,Notebook,14,,0,0,768,1366,Intel,Core i5,2.4,,SSD,256,Intel, HD Graphics 520,windows,1.5,58607,1049088
+hp,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,SSD,256,Intel, HD Graphics 620,windows,2,64202,2073600
+hp,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.6,8,,256,Intel, HD Graphics 520,windows,1.4,77203,2073600
+HP,Notebook,14,Full HD,0,0,1080,1920,Inetl,Core i5,2.5,8,,256,Nvidia, GeForce 930MX,windows,1.6,55905,2073600
+hp,Notebook,14,,0,0,768,1366,Intel,Core i3,2.4,4,HDD,500,Intel, HD Graphics 620,windows,1.6,36444,1049088
+dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,1024,Nvidia, GeForce GTX 1050,windows,2.7,50563,2073600
+HP,Ultrabook,12.5,Full HD,0,0,1080,1920,Inetl,Core i5,2.5,4,,500,Intel, HD Graphics 620,windows,1.3,81998,2073600
+hp,Notebook,14,Full HD,0,0,1080,1920,Ientl,Core i5,2.5,4,,256,Intel, HD Graphics 620,windows,1.5,84715,2073600
+HP,Ultrabook,14,Full HD,0,0,1080,1920,Inetl,Core i7,2.5,8,,-256,Intel, HD Graphics 520,windows,1.5,100551,2073600
+,Notebook,13.3,,0,0,768,1366,Intel,Core i3,2.4,4,,500,Intel, HD Graphics 620,,,42624,1049088
+toshiba,Notebook,13.3,,0,0,,1366,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.5,64469,1049088
+,Notebook,15.6,,0,0,768,1366,Inetl,Core i3,2.4,10,SSD,256,Intel, HD Graphics 620,,2,41025,1049088
+Lenovo,Notebook,17.3,4k Ultra HD,1,0,,3840,Intel,Core i7,2.7,16,SSD,512,Nvidia, Quadro 3000M,windows,2.4,158135,8294400
+Toshiba,Notebook,14,Full HD,1,0,,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.5,79387,2073600
+HP,Notebook,14,Full HD,0,0,1080,1920,Ietnl,Core i7,2.5,8,,256,Intel, HD Graphics 520,windows,1.4,118761,2073600
+dell,2 in 1 Convertible,15.6,Full HD,1,1,1080,1920,Intel,Core i3,2.3,4,,1024,Intel, HD Graphics 520,windows,,42410,2073600
+Toshiba,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.2,84715,2073600
+HP,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.1,61219,2073600
+HP,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,Nvidia, GeForce 930MX,windows,1.6,63160,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.4,8,,500,Intel, HD Graphics 520,windows,2.1,55754,2073600
+,Ultrabook,12.5,,0,0,768,1366,Intel,Core i5,2.5,4,,256,Intel, HD Graphics 620,,1.3,83064,1049088
+HP,Notebook,14,,0,0,768,1366,Inetl,Core i5,2.5,4,HDD,500,Intel, HD Graphics 620,windows,2.3,63350,1049088
+HP,Notebook,14,,0,0,768,1366,Itenl,Core i5,2.5,4,,500,Intel, HD Graphics 620,windows,2,56477,1049088
+dell,Ultrabook,13.3,Quad HD +,0,1,1800,3200,Intel,Core i5,2.5,20,,256,Intel, HD Graphics 620,windows,1.3,86527,5760000
+hp,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,-256,Nvidia, GeForce 930MX,windows,2.6,57542,2073600
+HP,Notebook,14,,0,0,768,1366,Intel,Core i5,2.5,,,256,Intel, HD Graphics 620,windows,1.6,51841,1049088
+Acer,Notebook,15.6,,0,0,768,1366,AMD,A9-Series 9420,3,6,,1024,AMD, Radeon R5,windows,2.1,21792,1049088
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,128,Nvidia, GeForce GTX 1050,windows,2.7,63499,2073600
+,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,SSD,256,Intel, HD Graphics 520,,2,63670,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Itnel,Core i7,2.5,8,,256,Intel, HD Graphics 520,windows,1.8,65481,2073600
+HP,Ultrabook,12.5,Full HD,0,0,1080,1920,Intel,Core i7,2.5,8,,256,Intel, HD Graphics 520,windows,,71875,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,,HDD,500,Intel, HD Graphics 620,windows,2,39534,1049088
+Toshiba,Ultrabook,14,Full HD,1,0,1080,1920,Intel,Core i7,2.6,8,,256,Intel, HD Graphics 520,windows,1.5,91908,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.4,8,,256,Intel, HD Graphics 520,windows,2.1,56634,2073600
+HP,Notebook,14,Full HD,0,0,,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.6,53840,2073600
+,2 in 1 Convertible,15.6,Full HD,1,1,1080,1920,Ientl,Core i7,2.5,4,,256,Intel, HD Graphics 520,,1.8,45128,2073600
+Vero,Notebook,14,,0,0,768,1366,Intel,Atom X5-Z8350,1.4,2,,32,Intel, HD Graphics 400,windows,1.5,11231,1049088
+,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.5,16,,256,Nvidia, GeForce 930M,,2.4,-75924,2073600
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,2.3,55923,2073600
+HP,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.3,4,,500,Intel, HD Graphics 520,windows,1.5,53280,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.4,8,,256,Intel, HD Graphics 520,,1.8,112066,2073600
+hp,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.4,78268,2073600
+,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,16,Hybrid,256,Nvidia, GeForce GTX 980M,,3.8,82352,2073600
+,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.6,16,,128,Nvidia, GeForce GTX 980M,,4.6,122011,2073600
+Asus,Netbook,11.6,,0,0,768,1366,Itnel,Celeron Dual,1.6,4,,16,Intel, HD Graphics 400,other,1.2,15339,1049088
+lenovo,Notebook,14,,1,0,1440,2560,Intel,Core i7,2.6,16,SSD,-256,Intel, HD Graphics 520,windows,1.1,139594,3686400
+hp,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,,1024,Nvidia, GeForce 940MX,windows,1.9,52161,2073600
+Dell,2 in 1 Convertible,15.6,Full HD,1,1,1080,1920,Intel,Core i5,2.7,8,,256,Intel, HD Graphics 620,windows,2.3,58288,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,4,SSD,256,Intel, HD Graphics 620,windows,2,52161,1049088
+Dell,Ultrabook,13.3,Quad HD +,0,1,1800,3200,Inetl,Core i7,2.7,40,,1024,Intel, HD Graphics 620,windows,1.2,-120093,5760000
+hp,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.3,4,HDD,500,Intel, HD Graphics 520,windows,2.3,37570,1049088
+HP,Notebook,15.6,,0,0,,1366,Intel,Core i5,2.5,10,,500,Intel, HD Graphics 620,,,26587,1049088
+Acer,Notebook,15.6,,0,0,768,1366,AMD,A8-Series 7410,2.2,8,HDD,1024,AMD, Radeon R5,windows,2.4,23923,1049088
+dell,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i7,2.7,12,,256,Intel, HD Graphics 620,windows,1.6,69211,2073600
+msi,Gaming,15.6,Full HD,0,0,,1920,Ietnl,Core i7,2.6,16,Hybrid,256,Nvidia, GeForce GTX 1060,windows,2.9,96916,2073600
+,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.6,,,1024,Nvidia, GeForce GTX 965M,,4,53173,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Itnel,Core i5,2.5,4,,1024,Intel, HD Graphics,windows,2.3,29784,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,16,,2048,AMD, Radeon R7 M445,windows,2.3,52747,2073600
+msi,Gaming,15.6,Full HD,0,0,,1920,Intel,Core i7,2.6,16,,256,Nvidia, GeForce GTX 1060,windows,1.8,102777,2073600
+Dell,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,,,256,Intel, HD Graphics 620,windows,1.3,77682,2073600
+,Gaming,17.3,Full HD,1,0,,1920,Intel,Core i7,2.7,64,,1024,Nvidia, GeForce GTX 980 ,,3.6,211788,2073600
+Dell,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i7,2.5,8,,256,Intel, HD Graphics 520,windows,1.6,42518,2073600
+Dell,Gaming,15.6,4k Ultra HD,0,0,2160,3840,Intel,Core i7,2.6,,,256,Nvidia, GeForce GTX 970M,windows,3.2,-70809,8294400
+Apple,Ultrabook,12,,1,0,1440,2304,Intel,Core M,1.1,8,Flash Storage,256,Intel, HD Graphics 515,macos,0.9,69264,3317760
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.3,4,,500,Intel, HD Graphics 520,windows,2.1,25680,1049088
+HP,Notebook,15.6,,0,0,,1366,Intel,Core i5,2.3,4,,500,Intel, HD Graphics 520,windows,2.3,63883,1049088
+HP,Ultrabook,12.5,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,SSD,256,Intel, HD Graphics 520,windows,1.3,63883,2073600
+HP,Notebook,13.3,Full HD,0,0,1080,1920,Ientl,Core i7,2.7,8,SSD,256,Intel, HD Graphics 620,windows,1.5,58075,2073600
+Lenovo,Ultrabook,12.5,Full HD,1,1,1080,1920,Ietnl,Core i7,2.5,,,256,Intel, HD Graphics 520,windows,1.3,91295,2073600
+Lenovo,Notebook,17.3,,0,0,900,1600,Itenl,Core i5,2.3,8,,1024,AMD, Radeon R5 M330,windows,3,35112,1440000
+,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.3,4,,1024,Nvidia, GeForce GTX 950M,,2.3,52055,2073600
+MSI,Gaming,17.3,Full HD,0,0,,1920,Intel,Core i7,2.8,16,Hybrid,256,Nvidia, GeForce GTX 1070,windows,3.8,133147,2073600
+Lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,4,,500,Intel, HD Graphics 520,windows,2.1,28771,1049088
+HP,Notebook,15.6,Full HD,0,0,,1920,Inetl,Core i5,2.3,4,,500,Intel, HD Graphics 520,windows,2.3,50083,2073600
+lenovo,Ultrabook,12.5,,1,1,1440,2560,Intel,Core M,1.2,8,,512,Intel, HD Graphics 515,windows,1,74539,3686400
+Lenovo,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,32,SSD,512,Nvidia, GeForce GTX 980M,windows,4.6,172627,2073600
+Lenovo,2 in 1 Convertible,10.1,,1,1,1200,1920,Intel,Atom x5-Z8550,1.4,4,,64,Intel, HD Graphics 400,windows,0.7,34433,2304000
+HP,Ultrabook,13.3,4k Ultra HD,1,0,2160,3840,Ientl,Core i7,2.7,16,,512,Intel, HD Graphics 620,windows,1.3,109171,8294400
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,20,,256,Intel, HD Graphics 620,windows,2.2,39960,2073600
+hp,Notebook,14,Full HD,0,0,1080,1920,Itenl,Core i5,2.3,4,,500,Intel, HD Graphics 520,windows,1.5,54931,2073600
+HP,Workstation,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.5,8,SSD,256,AMD, FirePro W4190M,windows,1.9,79654,2073600
+Lenovo,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,,180,Intel, HD Graphics 520,windows,1.7,63883,2073600
+HP,Notebook,13.3,Quad HD +,0,0,1800,3200,Intel,Pentium Dual,1.5,4,Flash Storage,32,Intel, HD Graphics 515,other,1.3,32767,5760000
+,Notebook,15.6,,0,0,768,1366,AMD,A8-Series 7410,2.2,4,HDD,-500,AMD, Radeon R5,,2.4,20619,1049088
+Dell,Notebook,15.6,,0,0,768,1366,Inetl,Pentium Quad,1.6,4,,500,Intel, HD Graphics,linux,2.2,20965,1049088
+hp,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,HDD,1024,Intel, HD Graphics 520,,1.9,18434,1049088
+Asus,Gaming,17.3,Full HD,1,0,1080,1920,Ietnl,Core i7,2.8,8,Hybrid,256,Nvidia, GeForce GTX 1060,windows,2.7,85195,2073600
+Dell,Ultrabook,13.3,Full HD,1,0,1080,1920,Ientl,Core i5,1.6,4,,256,AMD, Radeon 530,windows,1.4,43602,2073600
+HP,Netbook,12.5,,0,0,768,1366,Intel,Core i5,2.3,4,,128,Intel, HD Graphics 520,windows,2.4,85195,1049088
+Acer,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,Hybrid,256,Nvidia, GeForce GTX 950M,windows,2.4,42571,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,1024,AMD, Radeon R7 M445,windows,2.4,34035,2073600
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.6,8,SSD,256,Nvidia, GeForce GTX 965M,windows,2.6,85195,2073600
+hp,Notebook,15.6,,0,0,768,1366,Intel,Pentium Quad,1.6,4,,-1024,Intel, HD Graphics 405,windows,2,26640,1049088
+Asus,Gaming,17.3,Full HD,1,0,,1920,Intel,Core i7,2.6,16,,128,Nvidia, GeForce GTX 980M,windows,4.3,122491,2073600
+Dell,Ultrabook,12.5,,0,0,768,1366,Ietnl,Core i3,2.3,4,,500,Intel, HD Graphics 520,windows,1.5,60481,1049088
+Dell,Ultrabook,12.5,,0,0,768,1366,Intel,Core i3,2.3,4,SSD,128,Intel, HD Graphics 520,windows,1.5,62176,1049088
+Acer,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.5,4,,16,Intel, HD Graphics,other,2.2,11136,1049088
+HP,Workstation,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.6,,,1024,AMD, FirePro W6150M,windows,3,154459,2073600
+Lenovo,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,512,Nvidia, GeForce GTX 1050 Ti,windows,2.4,63883,2073600
+dell,Ultrabook,12.5,,0,0,768,1366,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.5,75290,1049088
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.6,8,,128,Nvidia, GeForce GTX 960M,windows,2.9,-80516,2073600
+Lenovo,2 in 1 Convertible,15.6,Full HD,1,1,1080,1920,Intel,Core i5,2.3,4,SSD,256,Intel, HD Graphics 520,windows,2.1,46194,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A6-Series 9220,2.5,4,,1024,AMD, Radeon R4,windows,2.1,21205,2073600
+Asus,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.6,16,,128,Nvidia, GeForce GTX 960M,windows,,71342,2073600
+HP,Notebook,13.3,Quad HD +,0,1,1800,3200,Intel,Core M,1.1,,SSD,256,Intel, HD Graphics 515,windows,1.2,90523,5760000
+,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,4,,500,AMD, Radeon R5 M315,,2.2,40980,1049088
+lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,128,Intel, HD Graphics 520,windows,2.1,22857,1049088
+hp,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i7,2.5,8,,512,Intel, HD Graphics 520,windows,1.2,104908,2073600
+Lenovo,2 in 1 Convertible,10.1,,1,1,,1920,Intel,Atom x5-Z8550,1.4,4,,64,Intel, HD Graphics 400,other,0.7,29251,2304000
+Dell,Ultrabook,13.3,Full HD,0,0,1080,1920,Itenl,Core i7,2.4,20,,256,Intel, Iris Plus Graphics 640,windows,1.2,73473,2073600
+Lenovo,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,16,SSD,256,Nvidia, GeForce GTX 980M,windows,4.6,146519,2073600
+Razer,Ultrabook,12.5,4k Ultra HD,0,1,2160,3840,Intel,Core i7,2.5,20,SSD,256,Intel, HD Graphics 520,windows,1.3,54825,8294400
+Toshiba,Ultrabook,13.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,16,,512,Intel, HD Graphics 620,windows,1.1,118601,2073600
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.6,8,Hybrid,128,Nvidia, GeForce GTX 960M,windows,,69929,2073600
+Vero,Notebook,13.3,Full HD,0,0,1080,1920,Itnel,Atom X5-Z8350,1.4,4,,32,Intel, HD Graphics 400,windows,1.4,10443,2073600
+HP,Notebook,13.3,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.2,90043,2073600
+HP,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.4,80613,2073600
+dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,4,,500,Intel, HD Graphics 520,linux,2.1,27899,1049088
+asus,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.4,4,,1024,Intel, HD Graphics 620,windows,2,23177,1049088
+,2 in 1 Convertible,14,Full HD,1,1,1080,1920,Intel,Core i7,2.5,8,,256,Intel, HD Graphics 520,,1.8,88924,2073600
+Lenovo,2 in 1 Convertible,10.1,,1,1,1200,1920,Intel,Atom x5-Z8550,1.4,4,,64,Intel, HD Graphics 400,windows,0.7,25521,2304000
+HP,Ultrabook,12.5,,0,0,768,1366,Intel,Core i5,2.4,8,,256,Intel, HD Graphics 520,windows,1.3,100966,1049088
+Lenovo,Gaming,15.6,Full HD,1,0,,1920,Intel,Core i5,2.5,8,,128,Nvidia, GeForce GTX 1060,,2.4,52694,2073600
+HP,Gaming,17.3,Full HD,1,0,1080,1920,Ietnl,Core i5,2.3,8,,128,Nvidia, GeForce GTX 1060,windows,3.4,60153,2073600
+HP,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.7,8,,-2048,Intel, HD Graphics 620,windows,2,33513,1049088
+Lenovo,2 in 1 Convertible,14,Full HD,1,1,1080,1920,Intel,Core i7,2.6,8,SSD,512,Nvidia, Quadro M500M,windows,1.8,109244,2073600
+asus,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.1,4,Flash Storage,32,Intel, HD Graphics 500,windows,1.5,14812,1049088
+HP,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,SSD,256,Intel, HD Graphics 620,windows,1.8,40067,2073600
+Acer,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,1024,Nvidia, GeForce 940MX,windows,,32820,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Ientl,Core i7,2.5,16,,1024,AMD, Radeon R7 M360,windows,2.5,58555,2073600
+hp,Workstation,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.6,8,SSD,256,Nvidia, Quadro M3000M,windows,3,210424,2073600
+dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,8,HDD,1024,AMD, Radeon R7 M445,windows,2.5,41772,1049088
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,16,,256,Nvidia, GeForce GTX 980M,windows,3.8,127819,2073600
+HP,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.5,8,,256,Intel, HD Graphics 520,windows,1.9,115709,2073600
+Lenovo,2 in 1 Convertible,14,,1,1,,2560,Intel,Core i7,2.6,,SSD,512,Intel, HD Graphics 520,windows,2.8,130003,3686400
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,-128,Nvidia, GeForce GTX 1050,windows,,60888,2073600
+HP,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i5,2.4,8,,256,Intel, HD Graphics 520,windows,,86793,2073600
+hp,Workstation,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.6,8,SSD,256,Nvidia, Quadro M1000M,windows,2.6,118761,2073600
+HP,2 in 1 Convertible,13.3,,0,1,1440,2560,Inetl,Core i7,2.6,8,,256,Intel, HD Graphics 520,windows,1.5,95851,3686400
+hp,Workstation,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.6,8,,256,Nvidia, Quadro M1000M,windows,2,101179,2073600
+hp,Ultrabook,12.5,Full HD,0,0,1080,1920,Intel,Core i7,2.5,8,,256,Intel, HD Graphics 520,windows,1.3,122381,2073600
+dell,Notebook,15.6,Full HD,0,0,1080,1920,Itenl,Core i7,2.7,8,,256,Nvidia, GeForce 940MX,windows,2.2,53807,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,1.9,84129,2073600
+Lenovo,2 in 1 Convertible,14,,1,1,1440,2560,Intel,Core i7,2.5,8,SSD,256,Intel, HD Graphics 520,windows,1.3,124622,3686400
+lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,1024,Intel, HD Graphics 520,,1.9,18062,1049088
+HP,Notebook,15.6,,0,0,768,1366,AMD,E-Series 7110,1.8,4,,500,AMD, Radeon R2 Graphics,windows,,15824,1049088
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.3,8,HDD,1024,AMD, Radeon R5 M330,,2.3,31915,2073600
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,HDD,1024,Nvidia, GeForce GTX 1050Ti,windows,,63883,2073600
+,Notebook,15.6,4k Ultra HD,1,1,2160,3840,Intel,Core i5,2.3,20,SSD,256,Nvidia, GeForce 960M,,2,119916,8294400
+HP,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A6-Series A6-9220,2.5,4,SSD,256,AMD, Radeon 520,windows,1.9,25515,2073600
+MSI,Gaming,17.3,Full HD,0,0,,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1050 Ti,windows,2.7,79536,2073600
+Lenovo,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.6,12,,512,Intel, HD Graphics 520,windows,1.4,122491,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.3,,,1024,AMD, Radeon R5 M330,windows,2.5,42011,2073600
+HP,2 in 1 Convertible,13.3,,0,1,1440,2560,Intel,Core i7,2.6,8,,512,Intel, HD Graphics 520,windows,1.5,108744,3686400
+Lenovo,Ultrabook,14,Full HD,0,0,1080,1920,Intel,Core i7,2.6,8,,256,Intel, HD Graphics 520,windows,1.7,79867,2073600
+msi,Gaming,14,Full HD,0,0,1080,1920,Intel,Core i7,2.6,16,Hybrid,256,Nvidia, GeForce GTX 970M,windows,1.7,94252,2073600
+HP,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,8,,1024,Nvidia, GeForce GTX 1050,windows,2.6,47899,2073600
+lenovo,Notebook,15.6,,0,0,768,1366,Inetl,Core i3,2,8,HDD,1024,Intel, HD Graphics 520,windows,2.2,24456,1049088
+HP,Notebook,15.6,,0,0,768,1366,Itenl,Core i5,2.3,4,,500,Intel, HD Graphics 520,,2.1,25414,1049088
+Dell,Gaming,15.6,4k Ultra HD,0,0,2160,3840,Intel,Core i7,2.8,8,,128,Nvidia, GeForce GTX 1050 Ti,windows,2.6,79813,8294400
+Lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Itnel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,2,74059,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,1024,Nvidia, GeForce 920MX ,,2.2,24935,2073600
+HP,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.6,2,,32,Intel, HD Graphics 400,windows,1.4,13267,1049088
+msi,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.7,8,HDD,-1024,Nvidia, GeForce GTX 1050,windows,,44702,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.5,8,,256,Intel, HD Graphics 520,windows,2,36177,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,16,,512,Intel, UHD Graphics 620,windows,2.1,61752,2073600
+asus,Notebook,15.6,,0,0,768,1366,Inetl,Celeron Dual,1.6,4,HDD,500,Intel, HD Graphics,windows,2.2,19660,1049088
+Lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,10,,500,Intel, HD Graphics 520,,2.1,21205,1049088
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Ientl,Core i7,2.7,8,HDD,1024,Nvidia, GeForce 940MX,,2.2,37776,2073600
+Asus,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i3,2.4,4,,256,Intel, HD Graphics 620,windows,2,40972,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.5,4,,-1024,Intel, HD Graphics 520,windows,2.3,43956,2073600
+Lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Ientl,Core i7,2.6,16,SSD,512,Nvidia, GeForce GTX 960,windows,3.3,69530,2073600
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Ientl,Core i7,2.6,16,Hybrid,128,Nvidia, GeForce GTX 970M,windows,1.9,114732,2073600
+,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.3,4,HDD,500,Intel, HD Graphics 520,,2.1,34632,1049088
+Lenovo,2 in 1 Convertible,14,,1,1,1440,2560,Intel,Core i5,2.3,,,256,Intel, HD Graphics 520,windows,1.4,87219,3686400
+Lenovo,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,6,,256,Nvidia, GeForce 920M,windows,1.5,44276,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,Nvidia, GeForce GT 940MX,linux,2,47686,2073600
+Acer,Notebook,15.6,,0,0,768,1366,Ietnl,Celeron Dual,2,,,500,Intel, HD Graphics 500,windows,2.1,17742,1049088
+hp,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.6,6,HDD,1024,Nvidia, GeForce GTX 960M,windows,2.2,42571,2073600
+Asus,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.6,8,Hybrid,256,Nvidia, GeForce GTX 960M,windows,2.6,48432,2073600
+,2 in 1 Convertible,15.6,Full HD,0,1,1080,1920,Intel,Core i7,2.7,40,,512,Intel, HD Graphics 620,,2.1,62817,2073600
+Acer,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,256,Nvidia, GeForce 940MX,windows,2.2,36816,2073600
+Dell,Ultrabook,13.3,Quad HD +,0,1,1800,3200,Intel,Core i5,2.4,20,,256,Intel, HD Graphics 520,linux,,58555,5760000
+,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,Hybrid,256,Nvidia, GeForce GTX 1070,,4.2,138475,2073600
+,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,HDD,1024,Nvidia, GeForce GTX 1050,,2.4,43636,2073600
+Samsung,2 in 1 Convertible,12.3,,1,1,1600,2400,Samsung,Cortex A72&A53,2,4,,32,ARM, Mali T860 MP4,other,1.2,35112,3840000
+HP,Notebook,15.6,,0,0,768,1366,Ientl,Core i5,2.5,4,,500,Intel, HD Graphics 620,windows,1.9,25841,1049088
+apple,Ultrabook,12,,1,0,1440,2304,Intel,Core M,1.1,8,,256,Intel, HD Graphics 5300,macos,0.9,61965,3317760
+dell,2 in 1 Convertible,13.3,Full HD,1,1,1080,1920,Intel,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,1.6,63883,2073600
+HP,Notebook,15.6,Full HD,1,0,1080,1920,Itnel,Core i7,2.8,12,,128,Nvidia, GeForce GTX 1050,windows,,70703,2073600
+,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,1024,AMD, Radeon R5 M430,,1.9,-19607,1049088
+Asus,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.6,,Hybrid,512,Nvidia, GeForce GTX 980M,windows,4.3,114552,2073600
+Acer,Notebook,15.6,,0,0,768,1366,Itnel,Celeron Dual,2,10,,1024,Intel, HD Graphics 500,linux,2.1,14492,1049088
+MSI,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,Hybrid,256,Nvidia, GeForce GTX 1060,windows,2.4,109165,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Inetl,Core i3,2,4,,128,AMD, Radeon R7 M440,windows,2.3,26587,1049088
+,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.5,8,HDD,500,Nvidia, GeForce 920MX,,2.2,33513,1049088
+Dell,Ultrabook,13.3,Quad HD +,0,1,1800,3200,Intel,Core i7,2.7,16,,512,Intel, HD Graphics 620,windows,1.2,-142790,5760000
+Asus,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.6,8,,1024,Nvidia, GeForce GTX 1060,windows,2.2,62284,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Inetl,Core i5,2.5,8,,256,AMD, Radeon R7 M445,windows,2.4,47366,2073600
+hp,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.9,30849,1049088
+Lenovo,Notebook,15.6,,0,0,768,1366,AMD,E-Series 9000,2.2,4,,500,AMD, Radeon R2 Graphics,windows,2.2,15931,1049088
+Acer,Notebook,17.3,,0,0,900,1600,Intel,Core i3,2,8,,1024,Nvidia, GeForce 940MX,windows,3.3,33513,1440000
+Asus,Gaming,15.6,Full HD,0,0,,1920,Intel,Core i7,2.8,16,Hybrid,256,Nvidia, GeForce GTX 1070,windows,2.2,130483,2073600
+apple,Ultrabook,12,,1,0,1440,2304,Intel,Core M,1.2,8,,512,Intel, HD Graphics 515,macos,0.9,68145,3317760
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,128,Nvidia, GeForce GTX 1060,windows,2.2,93187,2073600
+MSI,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.6,16,,256,Nvidia, GeForce GTX 1060,windows,2.4,103842,2073600
+Dell,2 in 1 Convertible,15.6,Full HD,1,1,,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,2.2,53227,2073600
+Asus,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1060,windows,2.9,103843,2073600
+,Netbook,11.6,,0,0,768,1366,Intel,Celeron Dual,1.5,2,,32,Intel, HD Graphics,,1.3,9271,1049088
+Acer,Notebook,17.3,,0,0,900,1600,Intel,Core i3,2,4,,1024,Nvidia, GeForce 940MX,windows,3.3,31861,1440000
+Lenovo,Notebook,17.3,,0,0,900,1600,Intel,Core i5,2.5,8,,1024,Intel, HD Graphics 620,,2.8,28718,1440000
+lenovo,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.6,8,,128,Nvidia, GeForce GTX 960<U+039C>,windows,2.6,67772,2073600
+Acer,2 in 1 Convertible,14,Full HD,1,1,1080,1920,Intel,Core i7,1.3,8,,256,Intel, HD Graphics 615,windows,,61219,2073600
+Lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.6,8,SSD,256,Intel, HD Graphics 520,windows,2.3,81465,2073600
+,Gaming,15.6,Full HD,0,0,,1920,Intel,Core i7,2.6,8,,128,Nvidia, GeForce GTX 1060,,2.2,78647,2073600
+,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A12-Series 9720P,2.7,6,,1024,AMD, Radeon 530,,2.1,28185,2073600
+,Ultrabook,12.5,Full HD,0,1,,1920,Intel,Core i5,2.4,8,,256,Intel, HD Graphics 520,,1.3,91288,2073600
+Dell,2 in 1 Convertible,15,Full HD,0,1,1080,1920,Intel,Core i3,2.4,4,,500,Intel, HD Graphics 620,windows,2.1,27120,2073600
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Pentium Quad,1.6,4,,1024,Intel, HD Graphics 405,windows,2.7,16464,1049088
+dell,Ultrabook,13.3,Quad HD +,0,1,1800,3200,Intel,Core i7,2.7,,,256,Intel, HD Graphics 620,windows,1.3,78695,5760000
+dell,Notebook,15.6,,0,0,,1366,Intel,Core i5,2.5,4,,1024,Intel, HD Graphics 520,linux,2.2,27805,1049088
+lenovo,Gaming,15.6,Full HD,1,1,1080,1920,Ietnl,Core i7,2.6,16,,128,Nvidia, GeForce GTX 960M,windows,2.6,54825,2073600
+msi,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,Hybrid,128,Nvidia, GeForce GTX 1050,windows,2.2,61219,2073600
+Lenovo,Netbook,12.5,Full HD,1,1,1080,1920,Itenl,Core i7,2.5,16,,512,Intel, HD Graphics 520,windows,1.3,87912,2073600
+,Gaming,14,Full HD,0,0,1080,1920,Intel,Core i7,2.8,16,,1024,Nvidia, GeForce GTX 1060,,2,186427,2073600
+,Notebook,15.6,,0,1,768,1366,Intel,Core i3,2.4,8,,1024,Intel, HD Graphics 620,,2.3,-24989,1049088
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Itenl,Core i7,2.8,,,256,Nvidia, GeForce GTX 1060,windows,2.7,85141,2073600
+Apple,Ultrabook,11.6,,0,0,768,1366,Ietnl,Core i5,1.6,4,Flash Storage,256,Intel, HD Graphics 6000,macos,1.1,51096,1049088
+,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2,4,,1024,Intel, HD Graphics 520,,2.1,25468,2073600
+hp,Ultrabook,14,,0,0,1440,2560,Intel,Core i7,2.5,,,256,Intel, HD Graphics 520,windows,1.5,117120,3686400
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.3,4,,500,Intel, HD Graphics 520,windows,2.2,39267,1049088
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.6,20,Hybrid,128,Nvidia, GeForce GTX 960M,windows,2.3,62284,2073600
+lenovo,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,16,,512,Intel, HD Graphics 620,windows,1.4,79867,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A12-Series 9720P,3.6,6,SSD,256,AMD, Radeon 530,windows,2.2,31839,2073600
+asus,Ultrabook,13.3,Full HD,0,0,1080,1920,Ietnl,Core i7,2.5,20,,256,Intel, HD Graphics 520,windows,1.5,68198,2073600
+Acer,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,HDD,500,Intel, HD Graphics 520,linux,2.4,19277,1049088
+Dell,2 in 1 Convertible,17.3,Full HD,0,1,1080,1920,Intel,Core i7,2.7,16,,512,Nvidia, GeForce 940MX,windows,2.8,-95851,2073600
+HP,Notebook,14,Full HD,0,0,1080,1920,Intel,Core i5,2.3,4,,256,Intel, HD Graphics 520,windows,1.5,58607,2073600
+dell,Notebook,14,,0,0,768,1366,Intel,Core i5,2.5,4,HDD,500,Intel, HD Graphics 620,windows,1.6,46620,1049088
+Asus,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.6,16,,256,Nvidia, GeForce GTX 1070,windows,2.3,123876,2073600
+Lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,,256,Intel, HD Graphics 620,,2.3,30529,2073600
+Dell,2 in 1 Convertible,13.3,Quad HD +,0,1,1800,3200,Intel,Core i5,1.2,8,,256,Intel, HD Graphics 615,windows,1.2,96597,5760000
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Pentium Quad,1.6,4,,-500,Intel, HD Graphics,linux,2.2,17263,1049088
+hp,Notebook,15.6,,0,0,768,1366,AMD,A6-Series 9220,2.5,4,,500,AMD, Radeon R4 Graphics,windows,1.9,21259,1049088
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i3,2.3,,,128,Nvidia, GeForce 920MX,windows,2.4,30316,2073600
+Lenovo,Notebook,14,Full HD,1,0,1080,1920,Ientl,Core i5,2.3,8,,256,Intel, HD Graphics 520,windows,,57116,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Itnel,Pentium Quad,1.6,4,HDD,500,Intel, HD Graphics,windows,2.2,23656,1049088
+Asus,Notebook,15.6,,0,0,,1366,Intel,Celeron Dual,1.1,4,,-1024,Intel, HD Graphics 500,windows,2,18062,1049088
+asus,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.6,16,,128,Nvidia, GeForce GTX 970M,windows,4,101232,2073600
+dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,,500,Intel, HD Graphics 520,windows,2.3,26107,1049088
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.5,8,,1024,AMD, Radeon R5 M330,windows,2.3,47686,2073600
+MSI,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.6,20,Hybrid,128,Nvidia, GeForce GTX 960M,windows,2.4,65481,2073600
+lenovo,2 in 1 Convertible,14,Full HD,0,1,1080,1920,Ientl,Core i5,2.3,4,SSD,128,Intel, HD Graphics 520,windows,1.8,44383,2073600
+,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core M,0.9,8,,512,Intel, HD Graphics 515,,1.2,38841,2073600
+Dell,Notebook,15.6,,0,0,,1366,Intel,Core i3,2.4,15,,1024,Intel, HD Graphics 620,windows,2.3,-24456,1049088
+Acer,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,500,Intel, HD Graphics 400,linux,2.4,15398,1049088
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.6,2,,500,Intel, HD Graphics,windows,2.2,20193,1049088
+Lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.6,8,,1024,Nvidia, GeForce GTX 960M,windows,2.6,47899,2073600
+hp,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A9-Series 9410,2.9,6,,1024,AMD, Radeon R7 M440,windows,2,29303,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Itnel,Core i7,2.7,,,1024,AMD, Radeon R5 M430,linux,2.3,42943,1049088
+HP,Netbook,11.6,,0,0,,1366,Intel,Celeron Dual,1.6,2,Flash Storage,32,Intel, HD Graphics 400,windows,1.2,11136,1049088
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.5,4,,500,Nvidia, GeForce 920M,windows,2.2,38379,1049088
+Lenovo,2 in 1 Convertible,14,Full HD,1,1,1080,1920,Intel,Core i7,2.5,4,,128,Intel, HD Graphics 520,windows,1.8,33993,2073600
+lenovo,2 in 1 Convertible,13.3,Quad HD +,1,1,1800,3200,Intel,Core i7,2.5,16,,512,Intel, HD Graphics 520,windows,1.3,79867,5760000
+Lenovo,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.6,2,,64,Intel, HD Graphics,windows,1.5,12201,1049088
+hp,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.5,6,,1024,AMD, Radeon R5 M330,windows,2.2,40706,1049088
+,Notebook,15.6,,0,0,768,1366,Itenl,Celeron Dual,1.6,4,,500,Intel, HD Graphics,,2.2,19660,1049088
+Asus,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core M,0.9,8,SSD,512,Intel, HD Graphics 515,windows,1.2,38841,2073600
+dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.4,6,HDD,1024,Intel, HD Graphics 620,windows,2.3,-24456,1049088
+Acer,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,500,Intel, HD Graphics 400,linux,2.4,15398,1049088
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.6,,HDD,500,Intel, HD Graphics,windows,,-20193,1049088
+Lenovo,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.6,8,HDD,1024,Nvidia, GeForce GTX 960M,windows,2.6,47899,2073600
+HP,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A9-Series 9410,2.9,6,,1024,AMD, Radeon R7 M440,windows,2,29303,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.7,8,HDD,1024,AMD, Radeon R5 M430,linux,2.3,42943,1049088
+HP,Netbook,11.6,,0,0,768,1366,Ietnl,Celeron Dual,1.6,2,,-32,Intel, HD Graphics 400,windows,1.2,11136,1049088
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.5,4,HDD,500,Nvidia, GeForce 920M,windows,2.2,38379,1049088
+lenovo,2 in 1 Convertible,14,Full HD,1,1,1080,1920,Intel,Core i7,2.5,4,,128,Intel, HD Graphics 520,windows,1.8,33993,2073600
+lenovo,2 in 1 Convertible,13.3,Quad HD +,1,1,1800,3200,Intel,Core i7,2.5,16,SSD,512,Intel, HD Graphics 520,windows,1.3,79867,5760000
+Lenovo,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.6,2,,64,Intel, HD Graphics,windows,1.5,12201,1049088
+HP,Notebook,15.6,,0,0,768,1366,Itnel,Core i7,2.5,6,,1024,AMD, Radeon R5 M330,windows,2.2,40706,1049088
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,500,Intel, HD Graphics,windows,2.2,19660,1049088
+Asus,Ultrabook,13.3,Full HD,1,0,1080,1920,Intel,Core M,0.9,8,,512,Intel, HD Graphics 515,windows,1.2,38841,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2.4,6,,1024,Intel, HD Graphics 620,windows,,24456,1049088
+acer,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.6,4,HDD,500,Intel, HD Graphics 400,linux,2.4,15398,1049088
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.6,2,,500,Intel, HD Graphics,windows,2.2,20193,1049088
+,Notebook,15.6,Full HD,1,0,1080,1920,Itenl,Core i7,2.6,8,,1024,Nvidia, GeForce GTX 960M,,2.6,47899,2073600
+hp,Notebook,15.6,Full HD,0,0,,1920,AMD,A9-Series 9410,2.9,6,,1024,AMD, Radeon R7 M440,windows,2,29303,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.7,8,,1024,AMD, Radeon R5 M430,linux,2.3,42943,1049088
+HP,Netbook,11.6,,0,0,768,1366,Intel,Celeron Dual,1.6,2,,32,Intel, HD Graphics 400,windows,1.2,11136,1049088
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Core i7,2.5,4,HDD,500,Nvidia, GeForce 920M,windows,2.2,38379,1049088
+Lenovo,2 in 1 Convertible,14,Full HD,1,1,1080,1920,Inetl,Core i7,2.5,4,,128,Intel, HD Graphics 520,windows,1.8,33993,2073600
+lenovo,2 in 1 Convertible,13.3,Quad HD +,1,1,1800,3200,Intel,Core i7,2.5,40,,512,Intel, HD Graphics 520,windows,1.3,79867,5760000
+lenovo,Notebook,14,,0,0,768,1366,Intel,Celeron Dual,1.6,2,Flash Storage,64,Intel, HD Graphics,windows,1.5,12201,1049088
+HP,Notebook,15.6,,0,0,,1366,Intel,Core i7,2.5,6,,1024,AMD, Radeon R5 M330,windows,2.2,40706,1049088
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.6,4,,500,Intel, HD Graphics,windows,2.2,19660,1049088
+toshiba,Notebook,15.6,Full HD,1,0,1080,1920,Itenl,Core i5,2.5,8,SSD,256,Intel, HD Graphics 620,windows,2,67026,2073600
+lenovo,Notebook,15.6,,0,0,768,1366,Ientl,Core i3,2,8,HDD,1024,Intel, HD Graphics 520,windows,2.2,24456,1049088
+msi,Gaming,15.6,Full HD,1,0,1080,1920,Intel,Core i7,2.8,16,,256,Nvidia, GeForce GTX 1060,windows,2.4,95851,2073600
+HP,Workstation,17.3,,0,0,900,1600,Intel,Core i5,2.8,8,,500,Nvidia, Quadro M1200,windows,3.1,99154,1440000
+hp,Netbook,11.6,,0,0,768,1366,Intel,Celeron Dual,1.6,4,Flash Storage,16,Intel, HD Graphics 400,other,1.2,20513,1049088
+Asus,Notebook,15.6,,0,0,768,1366,Intel,Celeron Dual,1.1,4,,1024,Intel, HD Graphics 500,linux,2,14651,1049088
+HP,Notebook,17.3,Full HD,0,0,1080,1920,AMD,A6-Series 9220,2.5,4,HDD,500,AMD, Radeon 530,windows,2.7,23390,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i5,2.5,12,,1024,Intel, HD Graphics 620,windows,2.3,34579,1049088
+Lenovo,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,,,128,Intel, HD Graphics 520,windows,2.1,22857,1049088
+HP,2 in 1 Convertible,13.3,4k Ultra HD,1,1,2160,3840,Ientl,Core i7,1.8,8,,512,Intel, UHD Graphics 620,windows,1.3,106507,8294400
+Lenovo,Ultrabook,14,,1,0,1440,2560,Intel,Core i7,2.7,8,,512,Intel, HD Graphics 620,windows,,121585,3686400
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Ientl,Core i5,1.6,8,,-256,AMD, Radeon 530,windows,2.2,42624,2073600
+Dell,Notebook,15.6,,0,1,768,1366,Intel,Core i3,2.4,8,,1024,Intel, HD Graphics 620,windows,,24989,1049088
+hp,Notebook,14,,0,0,768,1366,Intel,Core i5,2.5,4,,500,Intel, HD Graphics 620,windows,2.3,63350,1049088
+hp,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A9-Series 9410,2.9,6,,1024,AMD, Radeon R7 M440,windows,2,29303,2073600
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,HDD,-1024,Nvidia, GeForce 920,linux,2.1,27652,2073600
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,4,,1024,Nvidia, GeForce 920MX,,2.2,26587,2073600
+HP,Ultrabook,15.6,Full HD,0,0,1080,1920,Itenl,Core i7,2.7,8,SSD,512,Intel, HD Graphics 620,windows,1.8,74006,2073600
+hp,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i7,2.8,20,,256,Intel, HD Graphics 620,windows,1.3,136344,2073600
+Lenovo,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,1.8,8,,256,Intel, UHD Graphics 620,windows,2.1,46886,2073600
+hp,Notebook,15.6,Full HD,0,0,1080,1920,Itenl,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.8,69477,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,256,AMD, Radeon R7 M445,windows,2.4,47366,2073600
+Asus,Netbook,11.6,,0,0,768,1366,Intel,Celeron Dual,1.1,4,Flash Storage,64,Intel, HD Graphics 500,windows,1.2,18115,1049088
+dell,Ultrabook,12.5,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,SSD,256,Intel, HD Graphics 620,windows,1.6,90043,2073600
+Dell,Notebook,14,Full HD,0,0,1080,1920,Ietnl,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.6,45768,2073600
+,2 in 1 Convertible,10.1,,1,1,1200,1920,Intel,Atom x5-Z8550,1.4,10,Flash Storage,64,Intel, HD Graphics 400,,0.7,34433,2304000
+Samsung,2 in 1 Convertible,12.3,,1,1,1600,2400,Smsnaug,Cortex A72&A53,2,10,Flash Storage,32,ARM, Mali T860 MP4,other,1.2,35112,3840000
+razer,Ultrabook,12.5,4k Ultra HD,1,1,2160,3840,Intel,Core i7,2.5,16,,512,Intel, HD Graphics 620,windows,1.3,95851,8294400
+Lenovo,Gaming,17.3,Full HD,1,0,1080,1920,Intel,Core i7,2.7,16,,256,Nvidia, GeForce GTX 980M,windows,4.6,146519,2073600
+lenovo,Notebook,15.6,Full HD,0,0,1080,1920,AMD,A12-Series 9720P,3.6,12,SSD,512,AMD, Radeon 530,windows,2.2,50563,2073600
+,Ultrabook,15.6,Full HD,1,0,1080,1920,Intel,Core i5,1.6,,,256,Intel, UHD Graphics 620,,1.9,58403,2073600
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i5,2.5,8,,128,Nvidia, GeForce GTX 1050,windows,2.7,58342,2073600
+lenovo,Notebook,14,Full HD,1,0,1080,1920,Intel,Core i5,2.6,8,SSD,256,Intel, HD Graphics 620,windows,1.3,87912,2073600
+toshiba,Notebook,13.3,Full HD,0,0,1080,1920,Inetl,Core i5,2.5,8,,256,Intel, HD Graphics 620,windows,1.1,78588,2073600
+HP,Notebook,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,SSD,256,Nvidia, GeForce 930MX,windows,2.6,63936,2073600
+msi,Gaming,17.3,Full HD,0,0,1080,1920,Intel,Core i7,2.8,8,,256,Nvidia, GeForce GTX 1050 Ti,windows,2.7,63883,2073600
+Xiaomi,Notebook,15.6,Full HD,1,0,1080,1920,Intel,Core i7,1.8,16,,256,Nvidia, GeForce MX150,,2,74589,2073600
+Dell,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,,SSD,-256,AMD, Radeon R5 M430,windows,2.2,39694,2073600
+,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i7,1.8,8,,512,Intel, UHD Graphics 620,,4.1,79867,2073600
+HP,Ultrabook,12.5,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,1.3,71129,2073600
+Dell,2 in 1 Convertible,13.3,Full HD,0,1,1080,1920,Intel,Core i3,2.4,4,,1024,Intel, HD Graphics 620,windows,1.7,34579,2073600
+Lenovo,2 in 1 Convertible,13.3,Quad HD +,1,1,1800,3200,Intel,Core i7,2.5,16,,512,Intel, HD Graphics 520,windows,1.3,79867,5760000
+lenovo,Notebook,17.3,,0,0,900,1600,Ientl,Core i5,2.5,8,HDD,1024,Nvidia, GeForce GTX 940MX,,2.8,31382,1440000
+Lenovo,Notebook,13.3,Full HD,1,0,1080,1920,Intel,Core i5,2.5,8,SSD,-256,Intel, HD Graphics 620,windows,1.1,53227,2073600
+hp,Ultrabook,15.6,Full HD,0,0,1080,1920,Ietnl,Core i7,2.5,,SSD,256,AMD, Radeon R7 M365X,windows,1.8,69104,2073600
+hp,Workstation,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.6,8,SSD,256,Nvidia, Quadro M1000M,windows,,83170,2073600
+Asus,Notebook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,8,,256,Intel, HD Graphics 620,windows,2,65215,2073600
+Lenovo,Ultrabook,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.7,6,,256,Nvidia, GeForce 920M,windows,1.5,44276,2073600
+Dell,Notebook,15.6,,0,0,768,1366,Intel,Core i3,2,4,HDD,1024,Intel, HD Graphics 520,linux,2.3,19128,1049088
+,Notebook,15.6,Full HD,0,0,1080,1920,Itenl,Core i5,2.6,20,,256,AMD, Radeon R7 M465,,1.8,71875,2073600
+Dell,Gaming,15.6,Full HD,0,0,1080,1920,Intel,Core i7,2.8,40,,128,Nvidia, GeForce GTX 1050 Ti,windows,2.6,71875,2073600
